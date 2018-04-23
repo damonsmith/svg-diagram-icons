@@ -1,0 +1,3867 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3043.333"
+   height="1880.1678"
+   version="1.1"
+   content="&lt;mxfile userAgent=&quot;Mozilla/5.0 (X11; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0&quot; version=&quot;8.5.12&quot; editor=&quot;www.draw.io&quot; type=&quot;google&quot;&gt;&lt;diagram name=&quot;Page-1&quot; id=&quot;aaaa8250-4180-3840-79b5-4cada1eebb92&quot;&gt;7V1dc9u2Ev01fqyG+CTwGMtWmpn43t6ot3nM0CJscUKJKknFdn/9BSmCFoHNxJ0rgihb+cE2SFHSHh0u9mB3cUWWu+f3ZXLY3hWpyq9wlD5fkZsrjBFDXP9qRl66kYiT08hjmaXd2OvAOvtDmRO70WOWqmpwYl0UeZ0dhoObYr9Xm3owlpRl8TQ87aHIh696SB6VM7DeJLk7+jlL6+1pVLDodfxnlT1uzSujqDtyn2y+PpbFcd+93hUmD+3jdHiXmGt151fbJC2ezobI7RVZlkVRn/7aPS9V3hjXmO30vNV3jvbvu1T7+i1P4EIkXCQppwol9yj9qbvCtyQ/KvMR2jdavxjjfFNlnWlbfUzuVf5LUWV1Vuz1ofuirovdFbne1rtc/4/0n+bcd3n22JxTFwc9WtVl8bW3bHNemlRb1bynqDm8TQ7Na+2eH5vv1yJ5qki6SHaZPpZUhxPgD9lz84TrhyzPl0VelO2bI7di+Y6y/jXOjqxWK/3V1Ee6T6jfmXr+rtlQD4b+lqtip+ryRZ9inkA7/LovuOj+fXr9ssjOcNuz7wnvTku6r+djf+FXiPQfHUpvRAw7iL27++CApj9rPYSmVFX2R3LfntBY/VBk+7p9Y+z6it00tj7WGt2Wm80Tkg7DXD3U34f2kGyy/eOvzT83P9HLmBvHPzS3AeTc3HgMc5OQCYLfwJDVSsooghjS3akuwxAmBpAhALOYupixMTCjfz+KIMGm4wgLlyOHQ64vdXoxmxkUC74BfQeL3+EbAZHrElSJ0QA6LOjCBY9D/kQsxAjwcZcuZ2abNW1IRB3LC1+0if8KtMEubwS/FeQdxJvraEViMhZvOB1gRyPXxUCsYWQE7MTflzMUceB+5Y018q/Ami+VKvWVgXhl2fyAPue2+RmLO4QYzDoUGXLZgzBxQUSYjoCiefUzGG+XzcCHfVUn+42aGYcEH1qfSsf60heDULhB/ybPWou6JBjyZV/slUuuuH2MM0vjMeBtAMRQNApd3Kh/eTLVvGgih64mxtwxOvNGk3BD/01eHNOHsmipEoiHMXc0o9kQwL9ExAQwA8pwuYjl2WOMIAe5osCyseKqteK8WCSGUEg8YZCDwhUHNHHUj12NJg5OOZLMpdpFBTTBrBkaijgkDJAI4lAcLfgY6LnawFLzZX6OR8RD22vjv8ndj8OZcJWBzbHSl1fl+6RWT8lLQO7H0kMxoA4gHbnG0JQNj6KrIVckWHbm06PGgjPjkbUMgBl2YcDeiBSuWJAmdbLUVoVEgt6v+BYJLA4RIOaBNQKKR0APuxrBjbaaHukMNy/qyOGsDVFgBu1t2obD1Qga5qy/I69Nxhxr+sDezJxojGmbActlTme4eTHHdjocuZM3f8wJVzZI1SZLQ1KlrRUdFHOXNt6yBrCrENx0BpsZXSxHE8fA8rM3uoSrD6Qv+2RX3NyHwxfsaARCAo5GIHPaAD40Cn6uQnBzstv1vGhDqHWzknLCVVAcrkSg7qtwGGOlpYF5af5SN11B4PZ6PTOaRGRocRy5S53eMtNwuAKApgmQWzPZTMziCQHSA7zxhLiB/+x4giWzLA6E+/6ynMMN91WeVPpa1yppMkPyr+FwBlucoQyaiwGk6cXqy2LoBv23J9vpwVfzzYpFhFosYuYaA9nfG43Cjf07Gn0sklTjlewbLMKh0utKpwGSm1TOHzggIRZmueyyULpqwCubGis2pGoNOTd9oM+J7qGQrpzWrxWMz6lwBYKOU3fJ4ZNKjxsVDp+sZBwsCJSzCyvSZIx8aeLKBK90ejXgvIiErHuaMJlNkyyGknAlg5Azp+kwc5dE+K1LO6MkThNXQ/gHxR+iGNsgAgsNPkEMV5YIGESMwkKRujLFPyj++RsqgjK1PKLoSh/dzCTZbOc2I7Hy6wkCEuy9rWGYpKEA+aN2SZZDBHBzg2Xz47LrkrnBOBrWohACzEEowBjGF3LwGANFV/O4ba03L+ZYuXGEAGKft9IU6ooTQTGn9TlZUAGxxSAKJWgxBDgdIzpdFkBX1OhI02ZoZbMLhY04bezPmCtHeCuApK4YEQp93l6T4sPvoNiSZUlMXd54rUihroqxamw2L7ogYpkduF15Wxyk4UoOj7m2fkjBjZOhRQQUpAp/nsaVGt53RpsXZaxMHyL5hLXDLFxpINu1zRD/XEH9KFwRwzkZRUAGBISYGMOvMFcG+NBaCq9+y1JVzIwtyLZ9TBzbexMCTI1YiGxpCo32qg6u3tFK2KJQk0TP9Y7MVQI+dOa7mmm9I0EWDAQQ1Pzln7BwdYE82d2nSTj8sZ0PBaZpUL4JiqSZ4V0WOlcR+Hgy2bwIYwkBlEUTFp+wcIWAXXGvw9ovT0X5tY1vJm+IhKPhug3lBGhOwV3k5CjIuTLAXWsxPfb5ZLN58QZb9ysOFG15E9BYuIpAUSabXN0EWF1vz9hiqHTLX3U9c4WBf7e202MzLrMneFiqTQUDZmzekrJ4uEJBx6T70GrtueWH5Jt5NEpmI3eFgwGP7pOq+XOOhfcEDzOF9VzOVRGQN9HNZIwHyKUyDakm0u4EC0kHHgnkygafbmZW7UXIcPrGsFnHmmJBh4crE2ii3CUVOG+bTGmzoCMT08UVClq6RJ3d5sUb28NQOmHRPQ9XLtC8WefJN0ADmMzLYLvj+NubIo1DHFcyOBHnZLh58cYqPWEcT9q0n4crGJQqrbZZC1AgzLEajbAYcjjQrBqNIrVxVyj4ZGw2L9JYGhsTwKKoN206DlcZKItjrRgJhzE8snwNj5g7v0Yo7muFh+6GLsaoLIhdZeBTZ7l58QYNJTXe74EwCW/CVQGqcCgjhgmGHAPLnxpYsI+YqV67LGyuCrCeG0+sqmxOAP/ira4+DlcEqMj1cfNVAVOyqbbs49J2MAxQnTnIF04WIjp/jOJrXFWgoU/UGXJWPMJiOEHmPMIOFrE3HoUrClQqKTfb2/1jBiUHTOR55HAZlEMVBQgKTMfJj45dVWDdmk2PdZabFXkIspwQvFGPN/aEKwxUanMsNS3aLefBDWRPt3OIQf3a6DjS2hDCOAKa9X2n9PMcUDKKI3LVgnVrSD12ZstZcQpbfazjCNhxyV9OgQhXOWg5ldUvv+qn7teBFYlafbFjBPbz8+aZhCsfrDvz6dHWgldzLRc1/qffB5AAco639VLTwzFEQmW7Q5OkEwyJkDW/iOmb+yWNsuojAF3hZLOZ9SfvF3N6wxv9cYqoSASsLnSUCaf7so0ch/Zmhpv6a9czSpm1cKPaudIGW8YHhB1/tAm3R1+1Tw7VtghIlMPDRNBYAo2kvPUsF24guzYWmxdh4tgyO1AH4o8w4XbSy8xO9qG4GWStb4s398+TY3RYlm6Yuj40bIl6y82MOEM3LxC0x4Iv4kg3ugyFONXv4SRLW+ukAkPRjAC2KNNEWsRjFIoaj3ZOm//MLF3aXiQQfUOcKdKlZcBd/ffpl2PVZktP38/DylsTFMhbM0vgw5LqaEHHCGKkG4T+t5pbijS2Gt8IZsoFJ+FKuN36vx02wXXxQHaStOAMQZ36/XbykG70/9sv+jLzbOKBY2teHKMJa6tluBJA34wgEPZQa0ItgF4S3raPla4AMMdGBDi2ZsQCCP+9lXzKcMP/hiwPefEU2iqnJLbLkaDcjBf4PGkN0NEQFaPkTffZJxaVGms20M5yxRNZk2cpgL1ivDWSQlG48kBSlsXTv25dQvXpOOOkgNq8kQjQAigDU6bHiG6Q4WSoGK19Y6TDnOAwClc7OGH02TNGBJPAEAp3pfp0p/ONEI3sZPfpMQpXVWgxylVV+fdIptLJoISB9U+CFkBLNjSGaICicDPhT6fcpo/qpji2E0K/jolRGyo5LVThpl2/QuXbM1k9WqYHKdzg9iFP6gkgslsXSahsUU/UgWCVjOKYkBuphgTR6WY3AVB2RrzEQC41ZhjaOKRfR7owVIFHtFuVpBAaDmyrVQvbJehktTaSFLjjmXzeAURoFITCjZVK9aC0VVsZzytC1uKehPatwhLODB2lTzVC4cZL1aFNT/QJkF00Iimwb70Z+j/9kf63LJpP2B9733z4uyJVzRn/Aw==&lt;/diagram&gt;&lt;/mxfile&gt;"
+   id="svg6799"
+   sodipodi:docname="isometric-aws-icons.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata6803">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1376"
+     id="namedview6801"
+     showgrid="true"
+     inkscape:zoom="0.40089182"
+     inkscape:cx="1393.8226"
+     inkscape:cy="591.91991"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6799"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="axonomgrid"
+       id="grid7350"
+       units="mm"
+       empspacing="5"
+       originx="980.47164"
+       originy="-7813.893" />
+  </sodipodi:namedview>
+  <defs
+     id="defs5815" />
+  <g
+     id="g7360"
+     transform="translate(945.74082,281.36361)">
+    <path
+       style="fill:#e8ca45;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 64,38.9 70.29,24.8 113,0 h 12.5 L 150.1,14.2 156,27.9 100.8,60 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5817" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 64,39 6,-9 24.6,16 h 12.3 l -6.1,14 z"
+       pointer-events="none"
+       id="path5819" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 100.8,60 5.9,-13.8 43.1,-24.9 0.19,-6.9 L 156,28 Z"
+       pointer-events="none"
+       id="path5821" />
+    <path
+       style="fill:none;stroke:#fff215;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 64,39 6,-9 24.6,16 h 12.3 l -6.1,14 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5823" />
+    <path
+       style="fill:none;stroke:#fff215;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 100.8,60 5.9,-13.8 43.1,-24.9 0.19,-6.9 L 156,28 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5825" />
+    <path
+       style="fill:none;stroke:#fff215;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 70,25.2 V 30 m 24.7,16 6.1,14 m 49.2,-38.7 6,7.1"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5827" />
+    <path
+       style="fill:#fff215;stroke:none"
+       inkscape:connector-curvature="0"
+       d="M 81.8,25.2 115,5.8 l 10.2,6 -33.6,19 z m 9.5,2.6 8,-4.5 -4.7,-2.8 -7.9,4.7 z m 6,-8.6 4.6,2.6 8.6,-4.6 -4.9,-2.8 z m 15.4,-3.6 7.5,-4 -5.5,-2.9 -7.1,4.1 z m -16.24,17.82 33.2,-19.4 10.2,6 -33.6,19 z m 9.5,2.6 8,-4.5 -4.7,-2.8 -7.9,4.7 z m 6,-8.6 4.6,2.6 8.6,-4.6 -4.9,-2.8 z m 15.4,-3.6 7.5,-4 -5.5,-2.9 -7.1,4.1 z"
+       pointer-events="none"
+       id="path5829" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 64,38.9 70.29,24.8 113,0 h 12.5 L 150.1,14.2 156,27.9 100.8,60 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5831" />
+  </g>
+  <g
+     id="g5837"
+     transform="translate(1068.8777,359.19716)">
+    <switch
+       id="switch5835">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="21"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">AMI</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text5833"
+         font-size="12px"
+         y="12"
+         x="11">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3309">AMI</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7368"
+     transform="translate(871.63747,223.27888)">
+    <path
+       style="fill:#ff9900;stroke:#292929;stroke-width:1.61000001;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 82,128.6 6.4,-14.4 24.7,-14.2 h 12.3 l 24.61,14.3 5.99,14 -36.8,21.7 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5839" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 82,128.3 6.6,-14.2 -0.1,7.2 24.7,14.3 h 12.2 l -6.2,14.4 z"
+       pointer-events="none"
+       id="path5841" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 119.2,150 6.2,-14.4 24.5,-14.1 6.1,6.8 z"
+       pointer-events="none"
+       id="path5843" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 82,128.3 6.6,-14.2 -0.1,7.2 24.7,14.3 h 12.2 l -6.2,14.4 z m 37.2,21.7 6.2,-14.4 24.5,-14.1 6.1,6.8 z M 82,128.6 88.6,121.1 M 119.2,150 113,135.4 m 36.9,-13.9 v -7"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5845" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1.61000001;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 97.5,118.8 23.5,-13.6 7.9,4.5 -23.6,13.7 z m 12,7.1 23.5,-13.6 7.9,4.5 -23.6,13.7 z m -4.5,-11.8 8.5,4.9 m -0.5,-9.3 8.2,4.7 m 4,2.5 7.8,4.4 m -15.8,0 8,4.6"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5847" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:1.61000001;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 82,128.6 6.4,-14.4 24.7,-14.2 h 12.3 l 24.61,14.3 5.99,14 -36.8,21.7 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5849" />
+  </g>
+  <g
+     id="g7377"
+     transform="translate(1132.6908,53.48598)">
+    <path
+       style="fill:#4286c5;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 95,222 31,-17.5 31,17.5 v 34 L 126,273.3 95,256 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5857" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 95,222 31,17 v 34.3 L 95,256 Z"
+       pointer-events="none"
+       id="path5859" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 126,239 31,-17 v 34 l -31,17.3 z"
+       pointer-events="none"
+       id="path5861" />
+    <path
+       style="fill:none;stroke:#57a2d8;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 95,222 31,17 v 34.3 L 95,256 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5863" />
+    <path
+       style="fill:none;stroke:#57a2d8;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 126,239 31,-17 v 34 l -31,17.3 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5865" />
+    <path
+       style="fill:#57a2d8;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 136.5,210.5 5.8,3.2 -30.8,17.51 v 10.49 l -5.7,-3.12 V 228.3 Z m 12,6.7 -30,17.1 v 11.1 l -5.8,-3.1 v -10.6 l 30.9,-17.3 z"
+       pointer-events="none"
+       id="path5867" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 95,222 31,-17.5 31,17.5 v 34 L 126,273.3 95,256 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5869" />
+  </g>
+  <g
+     id="g5875"
+     transform="translate(1290.239,351.25293)">
+    <switch
+       id="switch5873">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="61"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Application</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text5871"
+         font-size="12px"
+         y="12"
+         x="31">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3311">Application</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7386"
+     transform="translate(1081.7275,-0.64111022)">
+    <path
+       style="fill:#86e83a;stroke:#292929;stroke-width:1.98000002;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 88,355.86 v -18.52 l 31,-17.34 31,17.34 v 18.52 L 119,373 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5877" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 88,337.34 31,16.84 V 373 L 88,355.86 Z"
+       pointer-events="none"
+       id="path5879" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 119,354.18 31,-16.84 v 18.52 L 119,373 Z"
+       pointer-events="none"
+       id="path5881" />
+    <path
+       style="fill:none;stroke:#b0f373;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 88,337.34 31,16.84 V 373 L 88,355.86 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5883" />
+    <path
+       style="fill:none;stroke:#b0f373;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 119,354.18 31,-16.84 v 18.52 L 119,373 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5885" />
+    <path
+       style="fill:#b0f373;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 98.8,353.68 v -10.4 l 30.9,-17.34 5.8,3.27 -31,17.24 v 10.2 z m 7,3.87 v -10.31 l 30.7,-17.33 5,2.67 -30,17.24 v 10.5 z"
+       pointer-events="none"
+       id="path5887" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:1.98000002;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 88,355.86 v -18.52 l 31,-17.34 31,17.34 v 18.52 L 119,373 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5889" />
+  </g>
+  <g
+     id="g7395"
+     transform="translate(1352.4467,-104.57703)">
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 57.5,519.73 V 465.5 L 119,430 l 61.5,35.5 v 54.23 L 119,554 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5897" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="M 57.5,465.5 119,501 v 53 L 57.5,518.99 Z"
+       pointer-events="none"
+       id="path5899" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="M 180.5,465.5 119,501 v 53 l 61.5,-35.01 z"
+       pointer-events="none"
+       id="path5901" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 57.5,465.5 119,501 v 53 L 57.5,518.99 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5903" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 180.5,465.5 119,501 v 53 l 61.5,-35.01 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5905" />
+    <path
+       style="fill:#5e5e5e;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 103.5,484.99 c -1.51,-0.97 -1.51,-2.52 0,-3.49 l 13,-7.5 c 1.46,-0.59 3.54,-0.59 5,0 l 13,7.5 c 1.23,0.92 1.23,2.27 0,3.2 l -13,7.5 c -1.46,0.58 -3.54,0.58 -5,0 z"
+       pointer-events="none"
+       id="path5907" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 57.5,519.73 V 465.5 L 119,430 l 61.5,35.5 v 54.23 L 119,554 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5909" />
+  </g>
+  <g
+     id="g5915"
+     transform="translate(1536.4194,423.39715)">
+    <switch
+       id="switch5913">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="73"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">EC2 Instance</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text5911"
+         font-size="12px"
+         y="29.638344"
+         x="73.158607">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3313">EC2 Instance</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7398"
+     transform="translate(928.29915,-590.21332)">
+    <path
+       style="fill:#777777;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 98.64,663.68 c -1.29,-1.14 -2.27,-2.59 -2.83,-4.21 -0.37,-0.83 -0.64,-1.71 -0.81,-2.6 v -8.02 c 0.35,-0.82 1.06,-1.44 1.93,-1.67 0.87,-0.23 1.8,-0.06 2.52,0.47 l 50.36,28.65 c 1.34,0.77 2.48,1.83 3.34,3.1 0.97,1.4 1.56,3.02 1.72,4.71 v 7.82 c -0.45,1.26 -1.69,2.08 -3.04,2 z m 48.95,22.74 c 0.51,0.26 1.12,0.29 1.67,0.08 0.54,-0.21 0.96,-0.64 1.16,-1.19 0.21,-1.61 -0.59,-3.2 -2.02,-4 l -18.41,-10.72 c -0.38,-0.24 -0.85,-0.3 -1.28,-0.17 -0.43,0.14 -0.77,0.46 -0.94,0.87 -0.18,1.41 0.26,2.84 1.21,3.91 z m -45.81,-42.98 c -2.08,-1.23 -3.73,-3.04 -4.76,-5.21 -1.15,-1.95 -1.84,-4.15 -2.02,-6.41 v -37.06 c 0.26,-1.86 1.38,-3.49 3.03,-4.41 1.48,-0.35 3.04,-0.02 4.25,0.9 l 45.91,26.35 c 2.11,1.21 3.81,3.03 4.86,5.21 1.32,2.09 1.95,4.54 1.82,7.01 v 37.06 c -0.09,1.67 -1.22,3.11 -2.83,3.61 -1.21,0.35 -2.51,0.24 -3.64,-0.3 z m 46.01,20.24 c 0.46,0.4 1.12,0.5 1.67,0.23 0.55,-0.26 0.89,-0.83 0.86,-1.43 l -0.1,-35.67 c -0.23,-1.29 -0.95,-2.44 -2.03,-3.2 l -46.72,-26.65 c -0.92,0.14 -1.63,0.88 -1.72,1.81 v 34.66 c 0,1.35 0.54,2.65 1.52,3.6 z"
+       pointer-events="none"
+       id="path5917" />
+  </g>
+  <g
+     id="g5923"
+     transform="translate(1143.7991,58.28668)">
+    <switch
+       id="switch5921">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="32"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Client</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text5919"
+         font-size="12px"
+         y="12"
+         x="16">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3317">Client</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7408"
+     transform="translate(233.04577,-26.66544)">
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 73,884.4 v -7.2 l 6.1,-3.6 V 767.59 l 30.5,-17.59 61.2,35.2 v 106.01 l 6,3.78 v 6.81 l -31.01,18 H 134 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5925" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 79.1,768 61.1,34.99 V 908.8 l 6,11 H 134.4 L 73,884.4 v -7.2 l 6.1,-3.6 z"
+       pointer-events="none"
+       id="path5927" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="M 140.2,802.99 170.8,785.2 V 892 l 6,2.99 v 6.81 l -31.01,18 -5.59,-11.8 z"
+       pointer-events="none"
+       id="path5929" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 73,884.4 5.8,-10.6 61.4,35.2 -6,10.8 m 6.2,-10.8 30.3,-17.51 6.1,10.31"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5931" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 79.1,768 61.1,34.99 V 908.8 l 6,11 H 134.4 L 73,884.4 v -7.2 l 6.1,-3.6 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5933" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 140.2,802.99 170.8,785.2 V 892 l 6,2.99 v 6.81 l -31.01,18 -5.59,-11.8 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5935" />
+    <path
+       style="fill:#5e5e5e;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 107.6,862.8 c -4.07,-2.66 -7.54,-6.13 -10.2,-10.21 -2.9,-4.21 -5.1,-8.87 -6.5,-13.78 l 7.3,7.59 -0.01,3.7 3.51,1.7 z m -18,-29 c -1.13,-4.38 -1.4,-8.93 -0.8,-13.4 0.4,-4.64 2.51,-8.78 5.7,-11.21 l -0.61,11.91 -1.59,-0.7 v 5.4 l 0.49,0.49 z m 6.6,-25.3 c 5.05,-2.05 10.44,-1.04 15,2.8 4.19,3.18 7.72,7.15 10.38,11.7 l -10.38,-4.5 v -1.6 l -4.4,-2.39 V 816 Z m 27.19,17.89 c 2.68,4.69 4.38,9.86 5.01,15.22 0.96,5.09 0.93,10.32 -0.1,15.4 l -3.9,-12.11 0.7,0.1 v -5.6 l -1.71,-1.21 z m 4.01,33.22 c -0.96,2.86 -3.16,5.14 -6,6.19 -3.53,0.98 -7.3,0.62 -10.6,-1 l 6.2,-4.01 3.4,2.01 v -3.91 z m -18,3.6 -6.6,-12.71 13,7.59 z M 99.6,845 l -8.4,-8.61 3.1,-8.38 z m -4.4,-23.19 0.6,-11.9 11,8.49 -10.1,3.8 z m 1.3,3.19 9.9,-4.6 1.4,0.59 v 13.42 l -1.5,-1 v 0.9 l -9.8,-8.21 z m 4.49,20.39 -4.69,-16.69 0.9,-0.8 9.6,8.9 -0.2,2.19 z m 1.61,2.41 V 846 l 5.6,-6.01 1.3,0.8 6.4,14.71 z m 8.6,-10.51 v -0.9 l -1.6,-1 v -13.5 l 1,0.72 9.6,15.3 0.1,1.69 z m -0.1,-16.48 10.6,4.09 0.3,13.4 z m 0.1,18.39 9.2,1.8 v 1.59 l 1,0.21 -3.4,12.49 -1.2,-0.69 -5.6,-13.09 z m 11.6,5.6 4,12 -6.5,0.39 v -1.29 l -0.9,-0.2 z"
+       pointer-events="none"
+       id="path5937" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 73,884.4 v -7.2 l 6.1,-3.6 V 767.59 l 30.5,-17.59 61.2,35.2 v 106.01 l 6,3.78 v 6.81 l -31.01,18 H 134 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5939" />
+  </g>
+  <g
+     id="g5945"
+     transform="translate(447.54577,819.83455)">
+    <switch
+       id="switch5943">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="61"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">CloudFront</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text5941"
+         font-size="12px"
+         y="12"
+         x="31">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3332">CloudFront</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7412"
+     transform="translate(641.84996,-754.36283)">
+    <path
+       style="fill:#ffffff;stroke:#2d6195;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 109.5,984.5 18.3,10.4 12.5,21.3 v 38.9 l -30.8,-17.7 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5947" />
+    <path
+       style="fill:none;stroke:#2d6195;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 128.1,995.4 v 13.7 l 12.2,7"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5949" />
+  </g>
+  <g
+     id="g5955"
+     transform="translate(854.34999,274.13712)">
+    <switch
+       id="switch5953">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="43"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Content</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text5951"
+         font-size="12px"
+         y="12"
+         x="22">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3336">Content</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7427"
+     transform="translate(390.72828,-468.41246)">
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 113,1176 v -52.4 l 55.4,-3.6 12.3,7.1 v 35.4 l -37.2,32 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5957" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 113,1176 v -52.4 l 30.8,17.7 v 53.2 z"
+       pointer-events="none"
+       id="path5959" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 143.8,1141.3 36.9,-14.2 v 35.4 l -36.9,32 z"
+       pointer-events="none"
+       id="path5961" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 113,1176 v -52.4 l 30.8,17.7 v 53.2 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5963" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 143.8,1141.3 36.9,-14.2 v 35.4 l -36.9,32 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5965" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 113,1176 v -52.4 l 55.4,-3.6 12.3,7.1 v 35.4 l -37.2,32 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5967" />
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 64,1215.5 v -35.2 l 37.01,-49.7 30.49,17.7 v 53.2 l -55.2,21.3 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5969" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 64,1215.5 v -35.2 l 12.3,6.9 v 35.6 z"
+       pointer-events="none"
+       id="path5971" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 76.3,1222.8 v -35.6 l 55.2,-38.9 v 53.2 z"
+       pointer-events="none"
+       id="path5973" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 64,1215.5 v -35.2 l 12.3,6.9 v 35.6 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5975" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 76.3,1222.8 v -35.6 l 55.2,-38.9 v 53.2 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5977" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 64,1215.5 v -35.2 l 37.01,-49.7 30.49,17.7 v 53.2 l -55.2,21.3 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5979" />
+    <path
+       style="fill:#5e5e5e;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 152.4,1160.8 c 0.07,-2.48 0.5,-4.94 1.3,-7.3 0.93,-2.9 2.39,-5.61 4.3,-8 1.21,-1.48 2.58,-2.83 4.1,-4 l -1.6,5.9 1.2,-0.6 v 8.6 l -6.3,3.71 v -1.51 z m 10.4,-19.4 c 1,-0.79 2.22,-1.25 3.5,-1.3 2.12,0.18 3.99,1.48 4.9,3.4 0.8,1.73 1.24,3.6 1.3,5.5 l -3.4,0.1 v 1.9 l -5.91,3.6 v -8.8 l 1.01,-0.4 z m 9.7,9.1 c -0.05,2.44 -0.45,4.87 -1.19,7.2 -0.88,2.8 -2.16,5.47 -3.81,7.9 -1.28,1.86 -2.87,3.48 -4.7,4.8 l 1.5,-5.6 -1.2,0.6 v -8.7 l 6,-3.8 v 1.5 z m -10.71,20.3 c -1.11,0.59 -2.33,0.97 -3.59,1.1 -1.68,-0.17 -3.2,-1.04 -4.2,-2.4 -0.95,-2.12 -1.53,-4.39 -1.7,-6.7 l 3.1,0.1 v -1.7 l 6.3,-3.8 v 8.8 l -1.1,0.7 z"
+       pointer-events="none"
+       id="path5981" />
+  </g>
+  <g
+     id="g5987"
+     transform="translate(623.63045,734.30888)">
+    <switch
+       id="switch5985">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="104"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Customer Gateway</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text5983"
+         font-size="12px"
+         y="12"
+         x="52">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3334">Customer Gateway</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7436"
+     transform="translate(1775.0925,-1240.6951)">
+    <path
+       style="fill:#ffffff;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 54,1396 v -70.5 l 61.5,-35.5 61.5,35.5 v 70.5 l -61.5,36 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5989" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 54,1396 v -70.5 l 61.5,35.5 v 71 z"
+       pointer-events="none"
+       id="path5991" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 177,1396 v -70.5 l -61.5,35.5 v 71 z"
+       pointer-events="none"
+       id="path5993" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 54,1396 v -70.5 l 61.5,35.5 v 71 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5995" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 177,1396 v -70.5 l -61.5,35.5 v 71 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5997" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 65,1344.5 40.5,23.5 M 65,1351.5 105.5,1375 M 65,1358.5 105.5,1382 m 20.5,-14 40.5,-23.5 m -40.5,30.5 40.5,-23.5 m -40.5,30.5 40.5,-23.5"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path5999" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 54,1396 v -70.5 l 61.5,-35.5 61.5,35.5 v 70.5 l -61.5,36 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6001" />
+  </g>
+  <g
+     id="g6007"
+     transform="translate(2002.01,125.48488)">
+    <switch
+       id="switch6005">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="66"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Data Center</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6003"
+         font-size="12px"
+         y="12"
+         x="33">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3330">Data Center</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7445"
+     transform="translate(1604.4342,-1310.5093)">
+    <path
+       style="fill:#ffffff;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 61,1560.5 v -35 l 61.5,-35.5 61.5,35.5 v 35 l -61.5,35.5 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6009" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 61,1560.5 v -35 l 61.5,35.5 v 35 z"
+       pointer-events="none"
+       id="path6011" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 184,1560.5 v -35 l -61.5,35.5 v 35 z"
+       pointer-events="none"
+       id="path6013" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 61,1560.5 v -35 l 61.5,35.5 v 35 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6015" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 184,1560.5 v -35 l -61.5,35.5 v 35 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6017" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 71.8,1541.49 40.7,23.71 m 20.7,0 40.8,-23.71"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6019" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 61,1560.5 v -35 l 61.5,-35.5 61.5,35.5 v 35 l -61.5,35.5 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6021" />
+  </g>
+  <g
+     id="g6027"
+     transform="translate(1835.7926,247.98685)">
+    <switch
+       id="switch6025">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="65"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Data Server</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6023"
+         font-size="12px"
+         y="12"
+         x="33">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3328">Data Server</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7453"
+     transform="translate(2582.0842,-742.32673)">
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 88,1708.6 6.4,-14.4 24.7,-14.2 h 12.3 l 24.61,14.3 5.99,14 -36.8,21.7 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6029" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 88,1708.3 6.6,-14.2 -0.1,7.2 24.7,14.3 h 12.2 l -6.2,14.4 z"
+       pointer-events="none"
+       id="path6031" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 125.2,1730 6.2,-14.4 24.5,-14.1 6.1,6.8 z"
+       pointer-events="none"
+       id="path6033" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 88,1708.3 6.6,-14.2 -0.1,7.2 24.7,14.3 h 12.2 l -6.2,14.4 z m 37.2,21.7 6.2,-14.4 24.5,-14.1 6.1,6.8 z m -37.2,-21.4 6.6,-7.5 m 30.6,28.9 -6.2,-14.6 m 36.9,-13.9 v -7"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6035" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-width:1.60000002;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 124.8,1687.62 4.7,-2.71 7.2,4.31 -4.4,2.61 z m -8.8,3.2 9.4,0.71 1.1,5.51 -9.7,-0.81 z m -6.3,5.41 7.3,4.41 -4.33,2.59 -7.23,-4.23 z m 12.1,7.01 7.3,4.32 -4.6,2.6 -7.3,-4.31 z m 6.7,-13.62 -3.3,2.21 m -7.6,4.1 -4.1,2.41 m 12.9,-1.41 6.6,3.81 -7.5,4.31"
+       stroke-linejoin="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6037" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:1.60000002;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 88,1708.6 6.4,-14.4 24.7,-14.2 h 12.3 l 24.61,14.3 5.99,14 -36.8,21.7 z"
+       stroke-linejoin="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6039" />
+  </g>
+  <g
+     id="g6045"
+     transform="translate(2796.5841,955.17323)">
+    <switch
+       id="switch6043">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="43"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Decider</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6041"
+         font-size="12px"
+         y="12"
+         x="22">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3338">Decider</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7462"
+     transform="translate(2313.3967,-1518.577)">
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 49.5,1984.99 v -139.98 l 60.49,-34.72 30.01,34.72 30,-35.01 61,35.49 v 139.5 L 170.51,2020 140.5,2002.4 109.99,2020 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6047" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="M 79.99,1879.99 H 49.5 l 60.49,35.01 v 105 L 49.5,1984.99 v -139 z M 140,1845.01 170.51,1810 231,1845.49 200.51,1880.31 231,1879.99 170.51,1915 H 140.5 l 60.01,-34.69"
+       pointer-events="none"
+       id="path6049" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="M 109.99,1915 H 140 v 87.4 l -30.01,17.6 z m 60.52,105 v -105 l 60.49,-35.01 -30.49,0.32 30.49,-34.82 v 139.02 z"
+       pointer-events="none"
+       id="path6051" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 79.99,1879.99 H 49.5 l 60.49,35.01 v 105 L 49.5,1984.99 v -139 z M 140,1845.01 170.51,1810 231,1845.49 200.51,1880.31 231,1879.99 170.51,1915 H 140.5 l 60.01,-34.69 z M 109.99,1915 H 140 v 87.4 l -30.01,17.6 z m 60.52,105 V 1915 L 231,1879.99 v 104.52 z m -90.52,-140.01 60.26,-34.98 m -60.26,34.98 60.51,35.01"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6053" />
+    <path
+       style="fill:#5e5e5e;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 138,1857.5 c 4.87,1.03 9.58,2.71 13.99,5 4.95,2.35 9.65,5.2 14.01,8.5 2.47,1.87 4.78,3.94 6.9,6.2 0.69,0.59 0.67,1.42 -0.05,2 -0.72,0.57 -1.94,0.74 -2.94,0.39 -4.12,-0.9 -8.11,-2.27 -11.91,-4.09 -5.79,-2.51 -11.26,-5.7 -16.3,-9.49 -2.42,-2.07 -4.66,-4.35 -6.7,-6.81 -0.07,-0.52 0.24,-1.03 0.83,-1.37 0.6,-0.34 1.41,-0.46 2.17,-0.33 z"
+       pointer-events="none"
+       id="path6055" />
+    <path
+       style="fill:#5e5e5e;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 142.5,1897 c -2.71,0.21 -5.43,-0.13 -8,-1.01 -5.41,-1.8 -10.6,-4.18 -15.5,-7.09 -4.06,-2.36 -7.91,-5.08 -11.49,-8.11 -2.23,-1.7 -3.14,-3.93 -2.51,-6.09 l 28.21,-15.71 c 0.33,1.65 1.15,3.2 2.39,4.52 3.1,2.84 6.48,5.36 10.09,7.49 5.11,3.35 10.58,6.1 16.3,8.19 2.6,1.08 5.4,1.59 8.21,1.52 z m -1.31,-9.01 c 0.02,-1.05 0.57,-2.05 1.51,-2.79 1.19,-0.57 2.55,-0.64 3.79,-0.21 l 1.11,-2.1 c -1.16,-0.42 -1.99,-1.1 -2.3,-1.89 -0.15,-0.91 0.5,-1.79 1.7,-2.31 l -1.2,-1.78 c -1.65,0.39 -3.4,0.06 -4.81,-0.91 -0.95,-0.65 -1.39,-1.53 -1.19,-2.39 l -3.6,-0.72 c -0.82,0.48 -1.75,0.76 -2.7,0.8 -1.46,0.04 -2.88,-0.45 -3.99,-1.38 l -4.02,0.69 c 0.37,0.44 0.47,1 0.28,1.52 -0.2,0.51 -0.67,0.91 -1.27,1.08 -1.08,0.3 -2.21,0.34 -3.31,0.11 l -1.4,1.99 c 1.11,0.28 1.96,1.17 2.2,2.29 -0.1,0.97 -0.76,1.79 -1.69,2.1 l 1.69,1.7 c 1.38,-0.23 2.8,0.02 4.01,0.72 1.07,0.5 1.66,1.49 1.51,2.5 l 3.48,0.98 c 1.15,-0.86 2.58,-1.29 4.01,-1.19 1.19,0.14 2.3,0.63 3.2,1.4 z m -1.19,-4.28 c -1.03,0.53 -2.16,0.83 -3.31,0.88 -2.32,-0.03 -4.62,-0.48 -6.79,-1.3 l -0.3,0.82 -3.11,-3.32 c 1.73,0.9 3.59,1.55 5.5,1.91 1.49,0.27 3,0.37 4.5,0.3 1.2,0.06 2.4,-0.14 3.51,-0.59 z m 0.79,-3.38 c -1.48,-1.02 -3.09,-1.84 -4.79,-2.44 -1.39,-0.44 -2.84,-0.67 -4.3,-0.69 -1.27,0.03 -2.53,0.3 -3.7,0.8 l -1,-0.9 c 1.67,-0.57 3.43,-0.84 5.19,-0.8 1.87,0.18 3.69,0.72 5.36,1.57 l 0.45,-1.07 z"
+       pointer-events="none"
+       id="path6057" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 49.5,1984.99 v -139.98 l 60.49,-34.72 30.01,34.72 30,-35.01 61,35.49 v 139.5 L 170.51,2020 140.5,2002.4 109.99,2020 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6059" />
+  </g>
+  <g
+     id="g6065"
+     transform="translate(2602.2989,400.68677)">
+    <switch
+       id="switch6063">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="63"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">DynamoDB</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6061"
+         font-size="12px"
+         y="12"
+         x="32">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3342">DynamoDB</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7469"
+     transform="translate(2643.4134,-1876.0605)">
+    <g
+       id="g3324"
+       transform="translate(4.133537e-6,18.697629)">
+      <path
+         id="path6067"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         d="m 82,2131.66 v -6.53 l 6.53,-7.74 30.57,-17.39 48.47,27.84 6.43,7.34 v 7.03 L 143.34,2160 h -12.07 z"
+         inkscape:connector-curvature="0"
+         style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10" />
+      <path
+         id="path6069"
+         pointer-events="none"
+         d="m 88.53,2117.69 48.77,28.04 6.04,14.27 H 131.27 L 82,2131.66 v -6.84 z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:0.1;stroke:none" />
+      <path
+         id="path6071"
+         pointer-events="none"
+         d="m 137.3,2145.93 30.66,-17.59 6.04,13.87 -30.66,17.79 z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:0.3;stroke:none" />
+      <path
+         id="path6073"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         d="m 88.53,2117.69 48.77,28.04 6.04,14.27 H 131.27 L 82,2131.66 v -6.84 z m 48.77,28.24 30.66,-17.59 6.04,13.87 -30.66,17.79 z m -55,-14.27 6.23,-14.27 m 42.46,42.47 6.49,-14.3"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10" />
+      <path
+         id="path6075"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         d="m 82,2131.66 v -6.53 l 6.53,-7.74 30.57,-17.39 48.47,27.84 6.43,7.34 v 7.03 L 143.34,2160 h -12.07 z"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10" />
+    </g>
+  </g>
+  <g
+     id="g6081"
+     transform="translate(2803.1239,321.58327)">
+    <switch
+       id="switch6079">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="24"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">EBS</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6077"
+         font-size="12px"
+         y="12"
+         x="12"
+         inkscape:transform-center-x="5.2915033">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3326">EBS</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7477"
+     transform="translate(2577,-1954.0952)">
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 92,2261.66 v -6.53 l 6.53,-7.74 30.57,-17.39 48.47,27.84 6.43,7.34 v 7.03 L 153.34,2290 h -12.07 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6083" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 98.53,2247.69 48.77,28.04 6.04,14.27 H 141.27 L 92,2261.66 v -6.84 z"
+       pointer-events="none"
+       id="path6085" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 147.3,2275.93 30.66,-17.59 6.04,13.87 -30.66,17.79 z"
+       pointer-events="none"
+       id="path6087" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 98.53,2247.69 48.77,28.04 6.04,14.27 H 141.27 L 92,2261.66 v -6.84 z m 48.77,28.24 30.66,-17.59 6.04,13.87 -30.66,17.79 z m -55,-14.27 6.23,-14.27 m 42.46,42.47 6.49,-14.3"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6089" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 123.17,2252.81 15.08,-8.74 15.09,8.74 -15.09,8.75 z m 9.55,0 5.53,-3.21 5.53,3.21 -5.53,3.22 z m -5.14,-3.11 -3,-1.71 m 8.23,-1.5 -3.3,-2.02 m 14.97,2.35 2.65,-1.74 m 2.2,4.62 2.5,-1.51 m -2.61,7.84 3.1,1.61 m -8.18,1.43 2.99,1.87 m -14.52,-1.7 -2.71,1.71 m -2.12,-4.52 -2.6,1.51"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6091" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 92,2261.66 v -6.53 l 6.53,-7.74 30.57,-17.39 48.47,27.84 6.43,7.34 v 7.03 L 153.34,2290 h -12.07 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6093" />
+  </g>
+  <g
+     id="g7486"
+     transform="translate(1575.3542,-1182.1521)">
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 52,2457.35 v -34.79 l 91,-52.56 91,52.56 v 34.79 L 143,2510 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6101" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 52,2422.56 91,52.64 v 34.8 l -91,-52.65 z"
+       pointer-events="none"
+       id="path6103" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 143,2475.2 91,-52.64 v 34.79 L 143,2510 Z"
+       pointer-events="none"
+       id="path6105" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 52,2422.56 91,52.64 v 34.8 l -91,-52.65 z m 91,52.64 91,-52.64 v 34.79 L 143,2510 Z m -45.77,-79.02 91.14,52.54 v 35"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6107" />
+    <path
+       style="fill:#5e5e5e;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 193.29,2398.88 -91.26,52.56 v 34.89 l -9.92,-5.81 v -35 l 90.66,-52.85 z"
+       pointer-events="none"
+       id="path6109" />
+    <path
+       style="fill:#ececec;stroke:#5e5e5e;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 83.18,2446.02 c 2.06,1.14 3.99,2.51 5.73,4.1 1.73,1.56 3.28,3.31 4.6,5.22 0.95,1.5 1.69,3.12 2.21,4.82 0.4,1.88 0.54,3.8 0.4,5.71 -1.71,-0.94 -3.32,-2.05 -4.81,-3.3 -1.81,-1.55 -3.43,-3.3 -4.82,-5.22 -1.38,-1.75 -2.47,-3.71 -3.2,-5.81 -0.38,-1.82 -0.42,-3.69 -0.11,-5.52 z m 14.45,33.1 c 0.04,-1.76 0.25,-3.51 0.6,-5.23 0.56,-1.16 1.64,-1.97 2.91,-2.19 1.75,-0.3 3.55,-0.13 5.21,0.5 1.56,0.61 3.07,1.34 4.51,2.2 0.04,1.67 -0.06,3.35 -0.29,5.01 -0.63,1.45 -2.05,2.39 -3.62,2.41 -1.98,0.08 -3.95,-0.22 -5.81,-0.9 -1.21,-0.52 -2.38,-1.13 -3.51,-1.8 z m 5.31,-35.41 c 1.18,-0.66 2.43,-1.2 3.71,-1.61 1.89,-0.37 3.83,-0.37 5.72,0 2.87,0.37 5.67,1.14 8.32,2.31 1.64,0.66 3.21,1.47 4.71,2.41 -0.72,0.57 -1.5,1.08 -2.31,1.51 -2.44,0.73 -5.03,0.83 -7.52,0.29 -2.67,-0.45 -5.26,-1.26 -7.71,-2.4 -1.72,-0.69 -3.36,-1.53 -4.92,-2.51 z m 1.6,-18.65 c 1.62,0.83 3.16,1.8 4.61,2.9 1.19,1.08 2.3,2.26 3.31,3.51 1.11,1.18 1.27,2.96 0.4,4.32 -0.77,0.85 -1.68,1.56 -2.69,2.11 -2.01,-0.99 -3.89,-2.2 -5.63,-3.61 -1.34,-1.34 -2.48,-2.86 -3.4,-4.52 -0.39,-1.02 -0.2,-2.17 0.49,-3.01 0.87,-0.73 1.85,-1.3 2.91,-1.7 z m 31.42,-18.38 c 1.62,0.82 3.17,1.79 4.62,2.9 1.2,1.08 2.3,2.25 3.31,3.51 1.11,1.18 1.28,2.96 0.4,4.31 -0.77,0.86 -1.69,1.57 -2.71,2.12 -2,-0.99 -3.89,-2.2 -5.62,-3.61 -1.35,-1.34 -2.49,-2.87 -3.41,-4.53 -0.39,-1.01 -0.2,-2.17 0.49,-3.01 0.87,-0.72 1.86,-1.29 2.92,-1.69 z m -1.6,18.65 c 1.18,-0.66 2.42,-1.2 3.71,-1.61 1.89,-0.37 3.83,-0.37 5.71,0 2.87,0.36 5.67,1.14 8.32,2.31 1.64,0.66 3.22,1.47 4.71,2.41 -0.71,0.57 -1.48,1.08 -2.29,1.51 -2.45,0.73 -5.04,0.84 -7.53,0.29 -2.81,-0.6 -5.41,-1.41 -7.72,-2.41 -1.71,-0.68 -3.36,-1.52 -4.91,-2.5 z m 30.79,-35.37 c 1.62,0.83 3.17,1.8 4.62,2.9 1.19,1.08 2.29,2.26 3.3,3.52 1.1,1.17 1.27,2.95 0.4,4.31 -0.77,0.85 -1.69,1.56 -2.7,2.1 -2,-0.99 -3.89,-2.2 -5.62,-3.6 -1.34,-1.34 -2.49,-2.86 -3.4,-4.52 -0.4,-1.02 -0.21,-2.17 0.49,-3.01 0.87,-0.73 1.85,-1.3 2.91,-1.7 z m -1.6,18.65 c 1.18,-0.66 2.42,-1.2 3.71,-1.61 1.89,-0.49 3.83,-0.49 5.72,0 2.86,0.37 5.67,1.15 8.31,2.31 1.64,0.66 3.22,1.47 4.72,2.41 0,0 0,0 0,0 -2.98,1.71 -6.45,2.34 -9.83,1.81 -2.67,-0.46 -5.27,-1.27 -7.72,-2.41 -1.71,-0.69 -3.35,-1.52 -4.91,-2.51 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6111" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 52,2457.35 v -34.79 l 91,-52.56 91,52.56 v 34.79 L 143,2510 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6113" />
+  </g>
+  <g
+     id="g6119"
+     transform="translate(1898.7692,1256.0564)">
+    <switch
+       id="switch6117">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="93"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Elastic Beanstalk</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6115"
+         font-size="12px"
+         y="12"
+         x="47">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3346">Elastic Beanstalk</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7496"
+     transform="translate(1255.9833,-1974.0101)">
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 88.5,2652.5 v -53 L 119,2582 h 31 l 30.5,17.5 v 53 l -30.5,17.67 h -31 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6121" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="M 88.5,2617.5 119,2635 h 31 v 35.17 H 119 L 88.5,2652.5 Z"
+       pointer-events="none"
+       id="path6123" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 150,2635 30.5,-17.5 v 35 l -30.5,17.67 z"
+       pointer-events="none"
+       id="path6125" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 88.5,2617.5 119,2635 h 31 v 35.17 H 119 L 88.5,2652.5 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6127" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 150,2635 30.5,-17.5 v 35 l -30.5,17.67 z m -31,0 v 35.17"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6129" />
+    <path
+       style="fill:#5e5e5e;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 119.5,2594.3 c 4.63,-1.43 9.82,-2.06 15,-1.8 5.9,0.28 11.5,1.68 16,4 7.22,3.09 11.97,8.02 13,13.5 0.71,3.76 -1.43,7.5 -6,10.5 -4.09,2.49 -8.72,3.96 -13.5,4.3 -5.21,0.58 -10.55,0.24 -15.5,-1 -5.3,-1.02 -10.07,-2.99 -13.8,-5.7 -3.55,-2.57 -6.03,-5.7 -7.2,-9.1 -1.19,-3.44 0.05,-6.97 3.5,-10 2.19,-1.94 5.1,-3.55 8.5,-4.7"
+       pointer-events="none"
+       id="path6131" />
+    <path
+       style="fill:#ececec;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 114.5,2614.8 7.3,-4.3 4,2.2 3.7,-7.3 -2.5,-0.1 5,-4.5 -3.5,-1.8 7.3,-4.3 6.4,3.9 -7.3,4.1 -1.8,-1.1 1.1,4.1 -3.1,-0.2 -3,6 5.9,-3.5 -1.7,-0.8 6.9,-2 -2.3,-1.4 7.2,-4.2 6.6,3.6 -7.2,4.3 -3,-1.7 -3.3,4.4 -1.9,-1.3 -5,3 10,-1.5 -0.3,-1.8 6.7,0.7 -1.5,-0.9 7.3,-4.1 6.6,3.6 -7.4,4.3 -3.5,-1.9 -7.2,2.9 -0.3,-1.5 -12.7,2.2 3.2,1.9 -7.2,4.1 z"
+       pointer-events="none"
+       id="path6133" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 88.5,2652.5 v -53 L 119,2582 h 31 l 30.5,17.5 v 53 l -30.5,17.67 h -31 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6135" />
+  </g>
+  <g
+     id="g6141"
+     transform="translate(1526.0515,646.25376)">
+    <switch
+       id="switch6139">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="119"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Elastic Load Balancer</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6137"
+         font-size="12px"
+         y="12"
+         x="60">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3360">Elastic Load Balancer</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7504"
+     transform="translate(830.96164,-1506.5004)">
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 73,2854 v -53 l 15.5,-27 30.5,-17.5 h 31 l 30.5,17.5 15.5,27 v 53 l -61.5,35.5 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6143" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 88.5,2774 v 18.01 l 30.99,18 15.01,26.49 v 53 L 73,2854 v -53 z m 92,18.01 V 2774 l 15.5,26.5"
+       pointer-events="none"
+       id="path6145" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 134.5,2889.5 v -53 l 15.01,-26.49 30.99,-18 15.5,8.49 v 53.5 z"
+       pointer-events="none"
+       id="path6147" />
+    <path
+       style="fill:#5e5e5e;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 114.03,2780.29 c 1,-0.41 2.13,-0.41 3.13,0 l 5.05,3.01 c 0.31,0.14 0.51,0.44 0.53,0.77 0.02,0.34 -0.15,0.65 -0.44,0.83 l -5.34,3.09 c -0.88,0.32 -1.85,0.32 -2.73,0 l -5.14,-2.99 c -0.36,-0.13 -0.6,-0.47 -0.6,-0.85 0,-0.38 0.24,-0.72 0.6,-0.85 z m 4.54,-0.79 c -0.35,-0.14 -0.58,-0.47 -0.58,-0.85 0,-0.37 0.23,-0.71 0.58,-0.84 l 5.34,-3.12 c 0.79,-0.24 1.63,-0.24 2.42,0 l 5.85,3.32 c 0.31,0.34 0.31,0.86 0,1.21 l -5.95,3.28 c -0.69,0.19 -1.42,0.19 -2.11,0 z m 9.37,-5.6 c -0.21,-0.18 -0.33,-0.43 -0.33,-0.7 0,-0.27 0.12,-0.53 0.33,-0.7 l 5.45,-3.21 c 0.85,-0.28 1.77,-0.28 2.62,0 l 5.75,3.21 c 0.3,0.34 0.3,0.85 0,1.2 l -5.75,3.4 c -0.82,0.27 -1.7,0.27 -2.52,0 z m 14.92,0.99 c 0.95,-0.36 1.99,-0.36 2.93,0 l 5.45,3.21 c 0.32,0.33 0.35,0.84 0.06,1.2 l -5.91,3.2 c -0.82,0.27 -1.71,0.27 -2.53,0 l -5.53,-3.2 c -0.18,-0.17 -0.28,-0.41 -0.28,-0.66 0,-0.24 0.1,-0.48 0.28,-0.65 z m 9.49,5.4 c 0.97,-0.39 2.05,-0.39 3.02,0 l 5.24,3.12 c 0.21,0.17 0.33,0.42 0.33,0.69 0,0.27 -0.12,0.53 -0.33,0.7 l -5.64,3.3 c -0.7,0.19 -1.43,0.19 -2.12,0 l -5.85,-3.2 c -0.25,-0.17 -0.4,-0.45 -0.4,-0.75 0,-0.3 0.15,-0.58 0.4,-0.74 z m -1.01,8.81 c 0.2,0.3 0.2,0.69 0,1 l -14.72,8.6 c -1.09,0.51 -2.35,0.51 -3.44,0 l -14.71,-8.4 c -0.21,-0.18 -0.33,-0.43 -0.33,-0.7 0,-0.27 0.12,-0.53 0.33,-0.7 l 15.02,-8.7 c 0.85,-0.29 1.77,-0.29 2.62,0 z"
+       pointer-events="none"
+       id="path6149" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 88.5,2774 v 18.01 l 30.99,18 15.01,26.49 15.01,-26.49 30.99,-18 V 2774 m -107.5,27 15.5,-8.99 m 46,44.49 v 53 m 61.5,-88.5 -15.99,-8.99 m -60.52,18 h 30.02"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6151" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 73,2854 v -53 l 15.5,-27 30.5,-17.5 h 31 l 30.5,17.5 15.5,27 v 53 l -61.5,35.5 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6153" />
+  </g>
+  <g
+     id="g6159"
+     transform="translate(1115.5575,1317.5273)">
+    <switch
+       id="switch6157">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="106"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Elastic MapReduce</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6155"
+         font-size="12px"
+         y="12"
+         x="53">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3358">Elastic MapReduce</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7534"
+     transform="translate(1585.4342,-2217.2778)">
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 70,3029.73 v -54.23 l 61.5,-35.5 61.5,35.5 v 54.23 L 131.5,3064 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6161" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 70,2975.5 61.5,35.5 v 53 L 70,3028.99 Z"
+       pointer-events="none"
+       id="path6163" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 193,2975.5 -61.5,35.5 v 53 l 61.5,-35.01 z"
+       pointer-events="none"
+       id="path6165" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 70,2975.5 61.5,35.5 v 53 L 70,3028.99 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6167" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 193,2975.5 -61.5,35.5 v 53 l 61.5,-35.01 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6169" />
+    <path
+       style="fill:#5e5e5e;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 116,2994.99 c -1.51,-0.97 -1.51,-2.52 0,-3.49 l 13,-7.5 c 1.46,-0.59 3.54,-0.59 5,0 l 13,7.5 c 1.23,0.92 1.23,2.27 0,3.2 l -13,7.5 c -1.46,0.58 -3.54,0.58 -5,0 z"
+       pointer-events="none"
+       id="path6171" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 70,3029.73 v -54.23 l 61.5,-35.5 61.5,35.5 v 54.23 L 131.5,3064 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6173" />
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 0,3069.73 v -54.23 l 61.5,-35.5 61.5,35.5 v 54.23 L 61.5,3104 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6175" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 0,3015.5 61.5,35.5 v 53 L 0,3068.99 Z"
+       pointer-events="none"
+       id="path6177" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="M 123,3015.5 61.5,3051 v 53 l 61.5,-35.01 z"
+       pointer-events="none"
+       id="path6179" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 0,3015.5 61.5,35.5 v 53 L 0,3068.99 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6181" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 123,3015.5 61.5,3051 v 53 l 61.5,-35.01 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6183" />
+    <path
+       style="fill:#5e5e5e;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 46,3034.99 c -1.51,-0.97 -1.51,-2.52 0,-3.49 l 13,-7.5 c 1.46,-0.59 3.54,-0.59 5,0 l 13,7.5 c 1.23,0.92 1.23,2.27 0,3.2 l -13,7.5 c -1.46,0.58 -3.54,0.58 -5,0 z"
+       pointer-events="none"
+       id="path6185" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 0,3069.73 v -54.23 l 61.5,-35.5 61.5,35.5 v 54.23 L 61.5,3104 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6187" />
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 140,3069.73 v -54.23 l 61.5,-35.5 61.5,35.5 v 54.23 L 201.5,3104 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6189" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 140,3015.5 61.5,35.5 v 53 L 140,3068.99 Z"
+       pointer-events="none"
+       id="path6191" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 263,3015.5 -61.5,35.5 v 53 l 61.5,-35.01 z"
+       pointer-events="none"
+       id="path6193" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 140,3015.5 61.5,35.5 v 53 L 140,3068.99 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6195" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 263,3015.5 -61.5,35.5 v 53 l 61.5,-35.01 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6197" />
+    <path
+       style="fill:#5e5e5e;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 186,3034.99 c -1.51,-0.97 -1.51,-2.52 0,-3.49 l 13,-7.5 c 1.46,-0.59 3.54,-0.59 5,0 l 13,7.5 c 1.23,0.92 1.23,2.27 0,3.2 l -13,7.5 c -1.46,0.58 -3.54,0.58 -5,0 z"
+       pointer-events="none"
+       id="path6199" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 140,3069.73 v -54.23 l 61.5,-35.5 61.5,35.5 v 54.23 L 201.5,3104 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6201" />
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 70,3109.73 v -54.23 l 61.5,-35.5 61.5,35.5 v 54.23 L 131.5,3144 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6203" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 70,3055.5 61.5,35.5 v 53 L 70,3108.99 Z"
+       pointer-events="none"
+       id="path6205" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 193,3055.5 -61.5,35.5 v 53 l 61.5,-35.01 z"
+       pointer-events="none"
+       id="path6207" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 70,3055.5 61.5,35.5 v 53 L 70,3108.99 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6209" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 193,3055.5 -61.5,35.5 v 53 l 61.5,-35.01 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6211" />
+    <path
+       style="fill:#5e5e5e;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 116,3074.99 c -1.51,-0.97 -1.51,-2.52 0,-3.49 l 13,-7.5 c 1.46,-0.59 3.54,-0.59 5,0 l 13,7.5 c 1.23,0.92 1.23,2.27 0,3.2 l -13,7.5 c -1.46,0.58 -3.54,0.58 -5,0 z"
+       pointer-events="none"
+       id="path6213" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 70,3109.73 v -54.23 l 61.5,-35.5 61.5,35.5 v 54.23 L 131.5,3144 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6215" />
+  </g>
+  <g
+     id="g6221"
+     transform="translate(1900.9342,831.22219)">
+    <switch
+       id="switch6219">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="63"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Elasticache</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6217"
+         font-size="12px"
+         y="12"
+         x="32">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3356">Elasticache</tspan>
+      </text>
+    </switch>
+  </g>
+  <rect
+     style="fill:none;stroke:#292929;stroke-width:2"
+     id="rect6225"
+     pointer-events="none"
+     height="0"
+     width="0"
+     y="3520.8523"
+     x="1077.7502" />
+  <rect
+     style="fill:none;stroke:#292929;stroke-width:2"
+     id="rect6229"
+     pointer-events="none"
+     height="0"
+     width="0"
+     y="3520.8523"
+     x="1077.7502" />
+  <rect
+     style="fill:none;stroke:#292929;stroke-width:2"
+     id="rect6233"
+     pointer-events="none"
+     height="0"
+     width="0"
+     y="3520.8523"
+     x="1077.7502" />
+  <g
+     id="g7541"
+     transform="translate(-3.5959066,-2601.9912)">
+    <path
+       style="fill:#ffffff;stroke:#292929;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 140.82,3253.35 168,3268.83 V 3297 l -37.09,-21.08 v -13.48"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6223" />
+    <rect
+       style="fill:#ffffff;stroke:none"
+       x="129.49001"
+       y="3243.53"
+       width="6.1399999"
+       height="15.06"
+       pointer-events="none"
+       id="rect6227" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 139.4,3259.04 10.01,13.39 18.19,-3.5"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6231" />
+    <path
+       style="fill:#ffffff;stroke:#292929;stroke-width:2;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 136.27,3261.04 c -1.37,0.18 -2.76,-0.1 -3.94,-0.8 -1.76,-1.13 -3.25,-2.63 -4.35,-4.4 -1.01,-1.35 -1.76,-2.87 -2.22,-4.49 -0.39,-1.27 -0.59,-2.58 -0.61,-3.9 -0.15,-1.75 0.16,-3.5 0.91,-5.09 0.48,-1 1.36,-1.76 2.43,-2.1 1.02,-0.26 2.11,-0.12 3.03,0.4 1.72,0.85 3.15,2.17 4.14,3.8 1.07,1.4 1.86,2.99 2.33,4.69 0.73,2.22 0.66,4.62 -0.21,6.79 -0.08,0.53 -0.41,1 -0.88,1.27 -0.46,0.27 -1.03,0.32 -1.54,0.13 -0.88,-0.71 -1.48,-1.7 -1.72,-2.8 v -3.89 c 0.15,-1.28 -0.22,-2.57 -1.01,-3.6 -0.51,-0.52 -1.13,-0.93 -1.82,-1.2 -0.64,0.01 -1.2,0.41 -1.41,1"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6235" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 133.62,3252.85 c -0.22,0.85 -1.09,1.47 -2.12,1.49 -0.66,-0.09 -1.24,-0.42 -1.6,-0.89 -0.25,-0.34 -0.43,-0.71 -0.51,-1.1 -0.26,-0.73 -0.18,-1.52 0.23,-2.2 0.33,-0.31 0.8,-0.49 1.29,-0.5 0.91,0.16 1.76,0.5 2.48,1"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6237" />
+  </g>
+  <g
+     id="g6243"
+     transform="translate(251.90409,670.5087)">
+    <switch
+       id="switch6241">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="31"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Email</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6239"
+         font-size="12px"
+         y="12"
+         x="16">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3378">Email</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7551"
+     transform="translate(2066.0333,-2551.7231)">
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 65,3547.09 V 3424.91 L 125.51,3390 h 31 l 59.49,34.41 v 122.68 L 155.49,3582 h -29.98 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6245" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 65,3442.36 60.51,34.92 h 29.98 V 3582 H 125.51 L 65,3547.09 Z"
+       pointer-events="none"
+       id="path6247" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 155.49,3477.28 60.51,-34.92 -30,-17.95 v -17.46 l 30,17.46 v 122.68 L 155.49,3582 Z"
+       pointer-events="none"
+       id="path6249" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 65,3442.36 60.51,34.92 h 29.98 V 3582 H 125.51 L 65,3547.09 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6251" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 155.49,3477.28 60.51,-34.92 -30,-17.95 v -17.46 l 30,17.46 v 122.68 L 155.49,3582 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6253" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 95.5,3406.95 v 17.96 l 30.01,17.45 h 29.98 l 30.01,-17.45 m -89.5,0 -30.5,17.2 m 60.01,0.25 v 138.89 m 29.98,-138.89 v 34.92"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6255" />
+    <path
+       style="fill:#5e5e5e;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 132,3404.96 c -2.1,0.17 -4.2,-0.32 -6,-1.4 -1.95,-1.17 -3.22,-3.21 -3.39,-5.48 0.22,-2.13 2.59,-3.93 5.89,-4.49 2.83,-0.3 5.69,-0.2 8.5,0.31 3.67,1.09 6.13,3.2 6.5,5.58 -0.04,1.17 -0.59,2.26 -1.51,2.98 -2.54,1.53 -5.57,2.07 -8.5,1.5 -1.09,-0.38 -1.86,-1.35 -1.99,-2.5 -0.97,0.15 -1.97,-0.06 -2.79,-0.59 -1.01,-0.65 -1.3,-1.71 -0.71,-2.59 1.33,-1.11 3.23,-1.22 4.69,-0.29 0.91,0.31 1.46,1.23 1.32,2.19 0.87,-0.23 1.48,-1.01 1.49,-1.9 -0.61,-1.39 -1.93,-1.98 -3.09,-1.41 l -0.41,-0.38 c 0.75,-0.46 1.67,-0.58 2.51,-0.31 1.64,0.64 2.51,1.66 2.29,2.69 -0.23,0.67 -0.69,1.23 -1.3,1.59 -0.63,0.51 -1.34,0.92 -2.1,1.21 0.11,0.79 0.81,1.35 1.6,1.29 1.79,0.14 3.59,-0.21 5.2,-1 1.19,-0.57 1.82,-1.9 1.49,-3.19 -0.83,-1.35 -2.04,-2.42 -3.49,-3.09 -1.42,-0.62 -2.94,-1.03 -4.5,-1.19 -1.91,-0.1 -3.83,0.06 -5.7,0.5 -1.51,0.33 -2.84,1.22 -3.7,2.5 -0.32,1.2 -0.06,2.49 0.71,3.47 0.91,1.14 2.12,2 3.49,2.5 0.93,0.44 1.98,0.58 3,0.4 m -3.08,-4.45 c 0.59,0.77 1.42,1.19 2.27,1.15 0.84,0.04 1.67,-0.38 2.26,-1.15 -0.59,-0.77 -1.42,-1.19 -2.26,-1.15 -0.85,-0.04 -1.68,0.38 -2.27,1.15 z m 7.08,7.75 c 2.22,-0.04 4.41,-0.45 6.49,-1.2 l 24.01,13.67 -27.21,-3.31 z m -11.81,-2.4 c 1.37,1.18 3.03,1.97 4.81,2.29 1.3,0.17 2.66,0.21 4,0.11 l 4,11.87 29.5,3.38 -22.5,12.98 -35.99,-20.95 z"
+       pointer-events="none"
+       id="path6257" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 65,3547.09 V 3424.91 L 125.51,3390 h 31 l 59.49,34.41 v 122.68 L 155.49,3582 h -29.98 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6259" />
+  </g>
+  <g
+     id="g6265"
+     transform="translate(2346.4631,929.30453)">
+    <switch
+       id="switch6263">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="75"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Email Service</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6261"
+         font-size="12px"
+         y="12"
+         x="38">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3382">Email Service</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7555"
+     transform="translate(-126.61256,-2947.9731)">
+    <path
+       style="fill:#ffffff;stroke:#292929;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 141.5,3660 18.3,10.4 12.5,21.3 v 38.9 l -30.8,-17.7 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6267" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 160.1,3670.9 v 13.7 l 12.2,7"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6269" />
+  </g>
+  <g
+     id="g6275"
+     transform="translate(111.88741,744.52694)">
+    <switch
+       id="switch6273">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="20"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">File</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6271"
+         font-size="12px"
+         y="12"
+         x="10">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3390">File</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7562"
+     transform="translate(1855.0134,-3207.4077)">
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 49.5,3937 v -52.4 l 30.41,-70.19 60.23,-34.41 59.75,34.79 30.61,70.21 v 52.21 L 170.06,3972 h -60.23 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6277" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 79.51,3814.6 60.63,35.5 29.92,104.41 V 3972 H 109.94 L 49.5,3937 v -52.8 z"
+       pointer-events="none"
+       id="path6279" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 140.14,3849.5 59.84,-34.5 30.52,70 v 52 l -60.44,35 v -17.49 z"
+       pointer-events="none"
+       id="path6281" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 79.51,3814.6 60.63,35.5 29.92,104.41 V 3972 H 109.94 L 49.5,3937 v -52.8 z m 60.63,34.9 59.84,-34.5 30.52,70 v 52 l -60.44,35 v -17.49 z m -60.32,-35 -30.32,105.3 59.44,34.71 h 61.12 l 60.44,-35 L 199.89,3815 m -59.84,34.5 -30.62,105.01 V 3972"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6283" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 49.5,3937 v -52.4 l 30.41,-70.19 60.23,-34.41 59.75,34.79 30.61,70.21 v 52.21 L 170.06,3972 h -60.23 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6285" />
+  </g>
+  <g
+     id="g6291"
+     transform="translate(2138.5133,681.09223)">
+    <switch
+       id="switch6289">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="39"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Glacier</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6287"
+         font-size="12px"
+         y="12"
+         x="20">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3362">Glacier</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7565"
+     transform="translate(500.31328,-3746.5899)">
+    <path
+       style="fill:#777777;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 155,4133.12 c 0,1.07 -0.58,2.07 -1.53,2.61 -0.69,0.27 -1.47,0.15 -2.04,-0.3 l -42.85,-24.4 c -0.81,-0.53 -1.51,-1.21 -2.04,-2.01 -0.99,-1.11 -1.54,-2.54 -1.53,-4.02 v -53.22 c 0.52,-1.08 1.65,-1.75 2.86,-1.71 l 44.58,25.41 c 0.41,0.3 0.75,0.67 1.02,1.1 0.84,1.31 1.36,2.78 1.53,4.32 z m -47.34,-74.92 c 0,0.95 0.46,1.85 1.23,2.41 l 6.02,3.52 c 0.42,-0.08 0.79,-0.34 1.02,-0.7 v -4.02 c -0.09,-0.65 -0.33,-1.27 -0.72,-1.81 l -5.91,-3.51 c -0.36,-0.13 -0.75,-0.09 -1.07,0.11 -0.32,0.19 -0.53,0.52 -0.57,0.89 z m 12.14,7.64 c 0.18,0.51 0.45,0.99 0.82,1.4 l 6.02,3.52 c 0.51,0.21 1.09,-0.01 1.32,-0.51 v -4.41 c -0.22,-0.63 -0.56,-1.21 -1.02,-1.71 l -5.91,-3.31 c -0.29,-0.06 -0.59,0 -0.82,0.18 -0.24,0.17 -0.38,0.43 -0.41,0.72 z m 12.04,6.72 c 0.18,0.6 0.49,1.15 0.92,1.61 l 6.12,3.42 c 0.51,0.13 1.03,-0.13 1.23,-0.61 v -3.61 c -0.12,-0.92 -0.55,-1.77 -1.23,-2.41 l -5.51,-3.12 c -0.23,-0.18 -0.54,-0.25 -0.83,-0.2 -0.3,0.06 -0.55,0.25 -0.7,0.51 z m 12.04,6.83 c 0.16,0.68 0.56,1.29 1.12,1.71 l 5.82,3.41 c 0.53,0.13 1.07,-0.18 1.22,-0.7 v -4.42 c -0.23,-0.62 -0.62,-1.17 -1.12,-1.6 l -5.92,-3.32 c -0.27,-0.03 -0.54,0.05 -0.75,0.22 -0.21,0.17 -0.34,0.42 -0.37,0.69 z m 7.35,9.84 c 0.37,0.1 0.76,-0.02 1.02,-0.3 0.13,-0.63 -0.16,-1.27 -0.72,-1.6 l -43.46,-24.61 c -0.35,0.1 -0.62,0.36 -0.71,0.71 0.1,0.59 0.48,1.11 1.02,1.4 z m -20.41,-8.43 v 1.61 c 2.14,1.8 3.88,4.02 5.1,6.52 1.18,2.48 1.94,5.12 2.25,7.84 l 1.32,0.5 c -0.29,-3.34 -1.26,-6.58 -2.85,-9.54 -1.39,-2.71 -3.37,-5.08 -5.82,-6.93 z m -1.53,-0.9 h -0.2 c -1.34,-0.85 -3,-1.04 -4.49,-0.51 -1.17,0.47 -2.19,1.23 -2.96,2.21 -0.77,1.48 -1.29,3.08 -1.53,4.72 l 1.53,1.01 c 0.15,-1.24 0.46,-2.46 0.92,-3.62 0.58,-1.17 1.61,-2.07 2.85,-2.51 1.32,-0.14 2.65,0.03 3.88,0.5 z m -0.1,11.64 v -7.93 c -0.93,-0.39 -1.96,-0.49 -2.96,-0.3 -0.68,0.23 -1.31,0.61 -1.84,1.1 -0.71,1.12 -1.13,2.4 -1.22,3.72 z m 7.55,4.32 c -0.04,-1.17 -0.28,-2.32 -0.72,-3.41 -0.55,-2.1 -1.56,-4.05 -2.95,-5.73 -0.67,-0.93 -1.5,-1.75 -2.45,-2.41 v 7.94 z m -6.22,-1.6 v 7.83 c 0.84,0.54 1.86,0.75 2.85,0.6 0.88,-0.28 1.64,-0.85 2.14,-1.61 0.64,-1.01 1.09,-2.14 1.33,-3.31 z m -1.33,-0.81 -6.33,-3.61 c 0.29,1.84 0.84,3.63 1.64,5.32 0.37,0.98 0.85,1.93 1.42,2.81 0.8,1.38 1.92,2.55 3.27,3.42 z m 0,9.84 c -1.06,-0.74 -2.02,-1.62 -2.86,-2.61 -1.66,-2.02 -2.91,-4.34 -3.67,-6.83 -0.53,-1.52 -0.87,-3.11 -1.02,-4.72 l -1.43,-0.8 c 0.19,2.34 0.7,4.63 1.53,6.83 0.88,2.12 2.04,4.11 3.47,5.92 0.93,1.65 2.31,3.01 3.98,3.92 z m 1.22,2.51 c 1.31,0.71 2.83,0.93 4.29,0.61 1.45,-0.35 2.72,-1.21 3.57,-2.41 0.7,-1.5 1.15,-3.09 1.32,-4.72 l -1.42,-0.71 c -0.14,1.17 -0.41,2.31 -0.82,3.42 -0.49,1.1 -1.35,1.99 -2.45,2.51 -1.49,0.38 -3.06,0.27 -4.49,-0.3 z m -22.54,-9.94 c -0.23,0.1 -0.41,0.28 -0.51,0.5 -0.09,0.45 -0.01,0.91 0.2,1.31 l 43.67,24.9 c 0.28,0.09 0.6,0.01 0.81,-0.2 0.22,-0.21 0.29,-0.52 0.21,-0.8 -0.23,-0.51 -0.63,-0.94 -1.13,-1.21 z m 37.54,26.11 c -0.37,-0.13 -0.78,-0.07 -1.1,0.14 -0.32,0.22 -0.52,0.58 -0.53,0.97 v 3.21 c 0.01,0.75 0.3,1.46 0.81,2.01 l 5.92,3.41 c 0.27,0.22 0.63,0.29 0.96,0.19 0.33,-0.1 0.58,-0.36 0.67,-0.69 v -3.92 c -0.09,-0.73 -0.45,-1.41 -1.02,-1.9 z m -5.41,-1.81 c -0.14,-0.58 -0.46,-1.1 -0.92,-1.5 l -6.22,-3.72 c -0.3,-0.03 -0.61,0.08 -0.83,0.29 -0.22,0.21 -0.32,0.51 -0.29,0.82 v 3.61 c 0.06,0.78 0.43,1.49 1.02,2.01 l 5.71,3.11 c 0.32,0.19 0.72,0.18 1.04,-0.01 0.32,-0.18 0.51,-0.53 0.49,-0.89 z m -11.93,-6.32 c -0.01,-0.8 -0.34,-1.56 -0.92,-2.11 l -6.22,-3.52 c -0.5,-0.07 -0.98,0.23 -1.13,0.71 v 3.71 c -0.01,0.78 0.28,1.54 0.82,2.11 l 6.02,3.31 c 0.28,0.13 0.61,0.13 0.88,-0.01 0.28,-0.13 0.48,-0.39 0.55,-0.69 z m -12.25,-7.43 c -0.19,-0.81 -0.7,-1.49 -1.42,-1.91 l -5.21,-3.01 c -0.29,-0.13 -0.64,-0.12 -0.92,0.04 -0.28,0.16 -0.47,0.44 -0.51,0.76 v 3.21 c -0.08,1.07 0.43,2.11 1.33,2.71 l 5.31,2.92 c 0.31,0.22 0.72,0.26 1.06,0.09 0.35,-0.17 0.57,-0.52 0.57,-0.9 z"
+       pointer-events="none"
+       id="path6293" />
+  </g>
+  <g
+     id="g6299"
+     transform="translate(736.81328,348.91007)">
+    <switch
+       id="switch6297">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="69"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Image/Video</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6295"
+         font-size="12px"
+         y="12"
+         x="35">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3364">Image/Video</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7580"
+     transform="translate(692.17913,-3755.64)">
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 141,4256 v -52.4 l 55.4,-3.6 12.3,7.1 v 35.4 l -37.2,32 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6301" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 141,4256 v -52.4 l 30.8,17.7 v 53.2 z"
+       pointer-events="none"
+       id="path6303" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 171.8,4221.3 36.9,-14.2 v 35.4 l -36.9,32 z"
+       pointer-events="none"
+       id="path6305" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 141,4256 v -52.4 l 30.8,17.7 v 53.2 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6307" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 171.8,4221.3 36.9,-14.2 v 35.4 l -36.9,32 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6309" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 141,4256 v -52.4 l 55.4,-3.6 12.3,7.1 v 35.4 l -37.2,32 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6311" />
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 92,4295.5 v -35.2 l 37.01,-49.7 30.49,17.7 v 53.2 l -55.2,21.3 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6313" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 92,4295.5 v -35.2 l 12.3,6.9 v 35.6 z"
+       pointer-events="none"
+       id="path6315" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 104.3,4302.8 v -35.6 l 55.2,-38.9 v 53.2 z"
+       pointer-events="none"
+       id="path6317" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 92,4295.5 v -35.2 l 12.3,6.9 v 35.6 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6319" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 104.3,4302.8 v -35.6 l 55.2,-38.9 v 53.2 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6321" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 92,4295.5 v -35.2 l 37.01,-49.7 30.49,17.7 v 53.2 l -55.2,21.3 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6323" />
+    <path
+       style="fill:#5e5e5e;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 183.6,4251.8 c -1.61,0.7 -3.33,-0.29 -4.3,-2.5 -0.84,-3.19 -0.06,-6.6 2.1,-9.09 -0.62,-1.9 -0.41,-3.98 0.6,-5.71 0.54,-1.03 1.63,-1.66 2.8,-1.6 0.13,-2.72 0.99,-5.34 2.5,-7.6 1.39,-1.66 3.19,-2.49 5,-2.29 1.73,0.66 3.19,2.56 3.99,5.19 1.8,-0.19 3.52,1.18 4.51,3.6 0.74,2.11 0.55,4.43 -0.5,6.4 -0.78,1.71 -2.03,3.17 -3.6,4.2 z"
+       pointer-events="none"
+       id="path6325" />
+  </g>
+  <g
+     id="g6331"
+     transform="translate(969.85604,518.59716)">
+    <switch
+       id="switch6329">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="92"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Internet Gateway</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6327"
+         font-size="12px"
+         y="12"
+         x="46">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3366">Internet Gateway</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g2552"
+     transform="translate(1436.363,-3879.4874)">
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 77.27865,4404.0915 31.5,-18.3 h 29.5 l 31,18.3 v 73.3 l -31,17.9 h -29.5 l -31.5,-17.9 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6333" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 77.27865,4421.2915 31.5,18.1 h 29.5 v 55.9 h -29.5 l -31.5,-17.9 z m 0,-35.5 z m 0,0 z"
+       pointer-events="none"
+       id="path6335" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 138.27865,4439.3915 31,-18.1 v 56.1 l -31,17.9 z"
+       pointer-events="none"
+       id="path6337" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 77.27865,4421.2915 31.5,18.1 h 29.5 l 31,-18.1 m -60.5,18.1 v 55.9 m 29.5,-55.9 v 55.9"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6339" />
+    <path
+       style="fill:#5e5e5e;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 112.27865,4398.5915 c 6.88,-1.65 14.04,-1.82 21,-0.5 3.8,0.8 7.42,2.4 10.7,4.71 3.47,1.88 5.79,5.36 6.2,9.29 -0.44,4.15 -2.72,7.89 -6.2,10.2 -3.21,2 -6.82,3.62 -10.7,4.8 -6.97,1.26 -14.13,1.02 -21,-0.7 -3.36,-0.92 -6.56,-2.34 -9.5,-4.2 -2.89,-2.06 -4.89,-5.13 -5.6,-8.6 0.16,-3.75 1.81,-7.28 4.6,-9.8 3.18,-2.31 6.73,-4.07 10.5,-5.2"
+       pointer-events="none"
+       id="path6341" />
+    <path
+       style="fill:#ffffff;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 128.47865,4409.6015 c 1.07,-0.57 1.94,-1.44 2.5,-2.51 0.42,-1 0.26,-2.15 -0.4,-3 -1.47,-0.99 -3.3,-1.29 -5,-0.8 0.73,-0.8 1.66,-1.39 2.7,-1.7 2.17,-0.13 4.27,0.76 5.7,2.4 0.49,1.59 0.23,3.32 -0.7,4.7 l -10,10.3 c -1.15,1.03 -2.01,2.34 -2.5,3.8 0.12,1 0.83,1.83 1.8,2.1 -1.14,1.02 -2.86,1.02 -4,0 -1.03,-0.88 -1.46,-2.29 -1.1,-3.6 0.61,-1.51 1.57,-2.85 2.8,-3.9 l 4.3,-3.6 -18,3.7 -5,-2.7 z"
+       pointer-events="none"
+       id="path6343" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 77.27865,4404.0915 31.5,-18.3 h 29.5 l 31,18.3 v 73.3 l -31,17.9 h -29.5 l -31.5,-17.9 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6345" />
+  </g>
+  <g
+     id="g6385"
+     transform="translate(933.26379,1441.5744)">
+    <switch
+       id="switch6383">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="105"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Oracle Data Center</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6381"
+         font-size="12px"
+         y="12"
+         x="53">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3372">Oracle Data Center</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7600"
+     transform="translate(418.46995,-3433.2287)">
+    <path
+       style="fill:#ffffff;stroke:#292929;stroke-width:1.87;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 90,5007.5 v -53 l 15.5,-27 30.5,-17.5 h 31 l 30.5,17.5 15.5,27 v 53 l -61.5,35.5 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6387" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 105.5,4927.5 v 18.01 l 30.99,18 15.01,26.49 v 53 L 90,5007.5 v -53 z m 92,18.01 V 4927.5 L 213,4954"
+       pointer-events="none"
+       id="path6389" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 151.5,5043 v -53 l 15.01,-26.49 30.99,-18 15.5,8.49 v 53.5 z"
+       pointer-events="none"
+       id="path6391" />
+    <path
+       style="fill:#ff0000;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 90,4984.29 61.5,35.41 61.5,-35.41 v 15.91 L 151.5,5035.72 90,5000.2"
+       pointer-events="none"
+       id="path6393" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 90,4984.29 61.5,35.41 61.5,-35.41 m 0,15.91 -61.5,35.52 L 90,5000.2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6395" />
+    <path
+       style="fill:#ffffff;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 100,5002.01 c -1.09,-1.08 -1.8,-2.49 -2,-4.02 -0.21,-1.02 -0.21,-2.06 0,-3.08 0.39,-0.61 1.08,-0.96 1.8,-0.92 l 5.21,2.91 c 0.73,0.75 1.3,1.64 1.69,2.61 0.51,1.34 0.64,2.78 0.4,4.19 -0.54,0.82 -1.56,1.19 -2.5,0.9 z m 4.3,0.98 c 0.27,0.14 0.58,0.17 0.86,0.08 0.28,-0.1 0.52,-0.3 0.65,-0.57 0.14,-0.59 0.17,-1.2 0.09,-1.81 -0.17,-1.02 -0.66,-1.96 -1.4,-2.7 l -3.8,-2.19 c -0.44,-0.25 -1.01,-0.13 -1.3,0.29 -0.26,1.13 -0.19,2.34 0.19,3.42 0.29,0.52 0.66,0.99 1.11,1.38 z m 3.4,3.51 v -8 l 5.01,2.9 c 0.6,0.41 1.11,0.96 1.48,1.59 0.41,0.88 0.55,1.85 0.41,2.81 -0.49,1 -1.51,1.31 -2.3,0.7 l 2.2,3.7 -1.5,-0.7 -3.6,-6.01 3.4,1.8 c 0.15,0.07 0.32,0.06 0.46,-0.02 0.14,-0.08 0.23,-0.22 0.25,-0.37 0.07,-0.45 0,-0.91 -0.21,-1.31 -0.24,-0.38 -0.55,-0.72 -0.9,-1 l -3.61,-2.1 v 6.61 z m 7,3.99 3.5,-5.29 c 0.25,-0.35 0.74,-0.44 1.1,-0.2 0.26,0.4 0.46,0.84 0.6,1.29 l 3.3,8.81 -1.2,-0.4 -1,-2.1 -2.8,-1.49 -0.6,-1.71 2.9,1.49 -1.59,-4.19 -2.81,4.61 z m 15.2,7.31 -0.9,0.9 -3.9,-2.3 c -0.69,-0.52 -1.24,-1.2 -1.59,-2 -0.6,-1.04 -0.91,-2.21 -0.92,-3.41 0.03,-0.62 0.17,-1.22 0.41,-1.79 0.44,-0.53 1.11,-0.8 1.8,-0.71 l 4.9,2.71 -0.6,1 -3.7,-2.1 c -0.37,-0.17 -0.8,-0.09 -1.1,0.2 -0.37,0.55 -0.55,1.22 -0.5,1.9 0.17,1.15 0.73,2.21 1.6,2.99 z m 0.39,-6.2 1.11,0.6 v 6.5 l 5.4,3.1 -0.7,0.89 -5.3,-2.99 c -0.3,-0.33 -0.47,-0.75 -0.51,-1.2 z m 13.21,14 -0.3,1.29 -4.5,-2.59 c -0.52,-0.48 -0.92,-1.06 -1.2,-1.7 -1.01,-1.61 -1.26,-3.59 -0.7,-5.4 0.44,-0.52 1.12,-0.78 1.8,-0.69 l 4.9,2.68 -0.79,0.8 -3.41,-1.9 c -0.34,-0.12 -0.71,-0.09 -1.01,0.09 -0.31,0.17 -0.53,0.48 -0.59,0.83 l 5.6,3.28 -0.9,0.92 -4.7,-2.71 c 0.11,0.91 0.54,1.76 1.2,2.4 z m 22.4,-10.1 c 0.8,-0.42 1.79,-0.26 2.4,0.41 0.48,0.92 0.59,1.99 0.3,2.99 -0.31,1.56 -1.08,2.99 -2.2,4.11 l -3.9,2.39 c -0.98,0.56 -2.21,0.39 -3,-0.41 -0.49,-1.25 -0.45,-2.66 0.11,-3.88 0.28,-1.16 0.9,-2.22 1.79,-3.02 z m -3.5,3.31 c -0.87,0.57 -1.48,1.47 -1.7,2.48 -0.22,0.69 -0.26,1.42 -0.1,2.12 0.1,0.33 0.33,0.6 0.63,0.75 0.3,0.14 0.66,0.16 0.97,0.03 l 3.6,-2.1 c 0.72,-0.63 1.25,-1.47 1.51,-2.39 0.24,-0.61 0.27,-1.28 0.09,-1.9 -0.04,-0.37 -0.25,-0.69 -0.56,-0.89 -0.31,-0.19 -0.69,-0.23 -1.04,-0.11 z m 6.32,2.88 v -8.08 l 5.58,-3.02 c 0.37,-0.2 0.81,-0.21 1.18,-0.02 0.38,0.18 0.64,0.53 0.72,0.94 0.14,1.07 -0.07,2.15 -0.6,3.09 -0.47,0.76 -1.12,1.38 -1.9,1.8 l 2.3,1.29 -1.7,0.92 -3.5,-2.01 2.9,-1.7 c 0.52,-0.32 0.91,-0.82 1.1,-1.4 0.06,-0.36 0.06,-0.74 0,-1.1 -0.07,-0.12 -0.18,-0.21 -0.31,-0.25 -0.13,-0.04 -0.28,-0.02 -0.39,0.05 l -3.81,2.1 v 6.5 z m 7.38,-4.2 3.7,-9.89 c 0.07,-0.4 0.34,-0.73 0.7,-0.9 0.31,0.1 0.56,0.32 0.7,0.6 l 3.5,5.2 -1.2,0.79 -0.79,-0.99 -3.22,1.71 -0.59,-1.12 3.1,-1.58 -1.5,-2.61 -3,8.1 z m 15.3,-10.19 -0.9,1.9 -3.4,2 c -0.86,0.33 -1.81,0.25 -2.6,-0.21 -0.46,-1.08 -0.53,-2.28 -0.2,-3.39 0.18,-2.11 1.44,-3.96 3.33,-4.9 l 3.48,-1.81 -0.61,1.7 -3.31,2.01 c -0.68,0.47 -1.2,1.13 -1.5,1.9 -0.31,0.8 -0.41,1.66 -0.29,2.51 -0.03,0.34 0.14,0.68 0.43,0.87 0.3,0.19 0.67,0.2 0.97,0.03 z m 1.5,-7.63 v 6.73 l 5.09,-2.73 -0.49,1.53 -5,2.79 c -0.18,0.18 -0.46,0.2 -0.67,0.05 -0.2,-0.15 -0.26,-0.42 -0.13,-0.63 v -6.92 z m 12.01,-6.77 -0.61,1.81 -3.19,1.78 c -0.53,0.33 -0.98,0.77 -1.31,1.3 -0.33,0.52 -0.57,1.1 -0.7,1.71 l 5.4,-3.01 -0.5,1.7 -4.9,2.7 c 0,0.36 0.18,0.7 0.48,0.9 0.3,0.21 0.68,0.25 1.02,0.11 l 4.4,-2.5 -0.79,1.89 -3.41,1.9 c -0.65,0.48 -1.51,0.52 -2.2,0.11 -0.49,-0.75 -0.76,-1.61 -0.8,-2.5 0.15,-1.94 1,-3.75 2.4,-5.11"
+       pointer-events="none"
+       id="path6397" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 105.5,4927.5 v 18.01 l 30.99,18 15.01,26.49 15.01,-26.49 30.99,-18 v -18.01 m -107.5,27 15.5,-8.99 m 46,44.49 v 53 m 61.5,-88.5 -15.99,-8.99 m -60.52,18 h 30.02"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6399" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:1.87;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 90,5007.5 v -53 l 15.5,-27 30.5,-17.5 h 31 l 30.5,17.5 15.5,27 v 53 l -61.5,35.5 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6401" />
+  </g>
+  <g
+     id="g6407"
+     transform="translate(743.81485,1545.799)">
+    <switch
+       id="switch6405">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="131"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Oracle Database Server</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6403"
+         font-size="12px"
+         y="12"
+         x="66">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3374">Oracle Database Server</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7608"
+     transform="translate(1362.3225,-4180.709)">
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 79,5197.5 v -53 l 15.5,-27 30.5,-17.5 h 31 l 30.5,17.5 15.5,27 v 53 l -61.5,35.5 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6409" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 94.5,5117.5 v 18.01 l 30.99,18 15.01,26.49 v 53 L 79,5197.5 v -53 z m 92,18.01 V 5117.5 L 202,5144"
+       pointer-events="none"
+       id="path6411" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 140.5,5233 v -53 l 15.01,-26.49 30.99,-18 15.5,8.49 v 53.5 z"
+       pointer-events="none"
+       id="path6413" />
+    <path
+       style="fill:#ffffff;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 79,5180.5 61.5,35.5 61.5,-35.5 v 3 L 140.5,5219 79,5183.5 Z"
+       pointer-events="none"
+       id="path6415" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 94.5,5117.5 v 18.01 l 30.99,18 15.01,26.49 15.01,-26.49 30.99,-18 v -18.01 m -107.5,27 15.5,-8.99 m 46,44.49 v 53 m 61.5,-88.5 -15.99,-8.99 m -60.52,18 h 30.02"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6417" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 79,5197.5 v -53 l 15.5,-27 30.5,-17.5 h 31 l 30.5,17.5 15.5,27 v 53 l -61.5,35.5 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6419" />
+  </g>
+  <g
+     id="g6425"
+     transform="translate(1618.8225,988.79098)">
+    <switch
+       id="switch6423">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="26"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">RDS</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6421"
+         font-size="12px"
+         y="12"
+         x="13">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3376">RDS</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7616"
+     transform="translate(1176.7883,-4279.9549)">
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 85,5397.5 v -53 l 15.5,-27 30.5,-17.5 h 31 l 30.5,17.5 15.5,27 v 53 l -61.5,35.5 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6427" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 100.5,5317.5 v 18.01 l 30.99,18 15.01,26.49 v 53 L 85,5397.5 v -53 z m 92,18.01 V 5317.5 L 208,5344"
+       pointer-events="none"
+       id="path6429" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 146.5,5433 v -53 l 15.01,-26.49 30.99,-18 15.5,8.49 v 53.5 z"
+       pointer-events="none"
+       id="path6431" />
+    <path
+       style="fill:#5e5e5e;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 108.1,5325.7 36.6,-20.19 12.7,6.99 -17.6,18.2 32.8,-9.7 12.9,6.9 -36.7,20.21 -7.99,-4.31 30.49,-16.5 -38.9,11.9 -8.2,-4.59 21.8,-21.42 -30.2,16.81 z"
+       pointer-events="none"
+       id="path6433" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 100.5,5317.5 v 18.01 l 30.99,18 15.01,26.49 15.01,-26.49 30.99,-18 v -18.01 m -107.5,27 15.5,-8.99 m 46,44.49 v 53 m 61.5,-88.5 -15.99,-8.99 m -60.52,18 h 30.02"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6435" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 85,5397.5 v -53 l 15.5,-27 30.5,-17.5 h 31 l 30.5,17.5 15.5,27 v 53 l -61.5,35.5 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6437" />
+  </g>
+  <g
+     id="g6443"
+     transform="translate(1454.5097,1089.3088)">
+    <switch
+       id="switch6441">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="66"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">RDS Master</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6439"
+         font-size="12px"
+         y="12"
+         x="33">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3384">RDS Master</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7624"
+     transform="translate(1025.3758,-4353.905)">
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 76.5,5587.5 v -53 l 15.5,-27 30.5,-17.5 h 31 l 30.5,17.5 15.5,27 v 53 L 138,5623 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6445" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 92,5507.5 v 18.01 l 30.99,18 L 138,5570 v 53 l -61.5,-35.5 v -53 z m 92,18.01 v -18.01 l 15.5,26.5"
+       pointer-events="none"
+       id="path6447" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 138,5623 v -53 l 15.01,-26.49 30.99,-18 15.5,8.49 v 53.5 z"
+       pointer-events="none"
+       id="path6449" />
+    <path
+       style="fill:#5e5e5e;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 106.72,5518.42 36.11,-20.53 18.23,10.42 c 1.31,0.86 2.41,1.98 3.23,3.3 0.67,1.54 0.38,3.32 -0.76,4.56 -1.74,1.56 -3.73,2.82 -5.89,3.74 -2.55,0.99 -5.32,1.32 -8.04,0.95 -1.7,-0.16 -3.37,-0.59 -4.93,-1.27 0.6,0.51 1.14,1.08 1.61,1.7 0.69,0.72 1,1.71 0.85,2.69 -0.15,0.98 -0.74,1.84 -1.61,2.32 l -8.89,5.73 c -0.89,0.55 -1.46,1.51 -1.51,2.55 l -8.78,-4.79 c -0.11,-0.77 0.21,-1.54 0.85,-2 l 9.75,-6.3 c 0.65,-0.98 0.57,-2.28 -0.21,-3.17 l -6,-3.62 -15.55,8.94 z m 28.83,-6.7 5.68,3.08 c 2.2,0.95 4.66,1.14 6.98,0.54 1.62,-0.57 3.14,-1.4 4.5,-2.45 0.55,-1.32 0.15,-2.84 -0.97,-3.72 l -5.68,-3.3"
+       pointer-events="none"
+       id="path6451" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 92,5507.5 v 18.01 l 30.99,18 15.01,26.49 15.01,-26.49 30.99,-18 v -18.01 m -107.5,27 15.5,-8.99 m 46,44.49 v 53 m 61.5,-88.5 -15.99,-8.99 m -60.52,18 h 30.02"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6453" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 76.5,5587.5 v -53 l 15.5,-27 30.5,-17.5 h 31 l 30.5,17.5 15.5,27 v 53 L 138,5623 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6455" />
+  </g>
+  <g
+     id="g6461"
+     transform="translate(1299.3887,1197.3587)">
+    <switch
+       id="switch6459">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="60"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">RDS Slave</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6457"
+         font-size="12px"
+         y="12"
+         x="30">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3386">RDS Slave</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7634"
+     transform="translate(2065.5533,-5260.1588)">
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2.00999999;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 68,5823.82 v -106.49 l 5.52,-14.39 25.18,-2.94 19.97,11.76 v 5.57 l 6.61,-4.16 h 35.03 l 35.22,20.57 v 24.84 l 2.7,-0.42 19.77,11.46 v 103.26 l -4.92,14.48 -26.19,2.64 -19.45,-11.55 v -5.57 l -6.94,4.14 h -35.31 l -35.02,-20.86 v -21.39 l -1.7,1.33 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6463" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 68,5824.28 v -106.55 l 20.56,12.16 v 106.09 z m 22.28,31.88 v -101.74 l 35.41,20.46 v 102.14 z m 77.35,22.29 v -102.24 l 19.77,11.13 V 5890 Z"
+       pointer-events="none"
+       id="path6465" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 88.56,5835.98 v -106.19 l 9.85,-0.81 -7.94,4.67 v 100.51 z m 37.13,-61.1 h 34.41 l 10.03,-5.87 -2.5,6.99 v 96.27 l -6.76,4.75 H 125.5 Z m 61.71,12.67 25.19,-2.64 5.41,-14.78 v 102.33 l -4.71,14.8 -25.89,2.74 z m -68.73,-76 v 5.68 l -2.72,1.92 z m 76.86,42.47 v 4.56 l -8.43,1 z"
+       pointer-events="none"
+       id="path6467" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 68,5824.28 v -106.55 l 20.56,12.16 v 106.09 z m 22.28,31.88 v -101.74 l 35.41,20.46 v 102.14 z m 77.35,22.29 v -102.24 l 19.77,11.13 V 5890 Z m -79.07,-42.47 v -106.19 l 9.85,-0.81 -7.94,4.67 v 100.51 z m 37.13,-61.1 h 34.41 l 10.03,-5.87 -2.5,6.99 v 96.27 l -6.76,4.75 H 125.5 Z m 61.71,12.67 25.19,-2.64 5.41,-14.78 v 102.33 l -4.71,14.8 -25.89,2.74 z m -68.73,-76 v 5.68 l -2.72,1.92 z m 76.86,42.47 v 4.56 l -8.43,1 z m -35.03,20.86 v 102.14 m 52.28,-92.51 v 102.66"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6469" />
+    <path
+       style="fill:#5e5e5e;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 141.55,5723.92 c 0.04,-0.43 0.26,-0.82 0.6,-1.07 0.35,-0.25 0.78,-0.35 1.19,-0.26 3.21,0.41 6.33,1.33 9.24,2.74 8.17,3.12 15.84,7.42 22.78,12.77 2.3,1.66 4.36,3.64 6.11,5.88 0.21,0.54 0.1,1.15 -0.28,1.57 -0.38,0.43 -0.97,0.6 -1.51,0.45 -3.65,-0.58 -7.2,-1.67 -10.55,-3.23 -8.31,-3.32 -16.08,-7.87 -23.07,-13.49 -1.8,-1.51 -3.33,-3.32 -4.51,-5.36 z m -1.72,0.31 c -0.05,1.29 0.39,2.55 1.22,3.53 1.57,1.96 3.43,3.67 5.51,5.07 6.37,4.76 13.28,8.74 20.57,11.86 3.05,1.34 6.25,2.29 9.53,2.83 0.87,0.22 1.78,0.04 2.5,-0.5 l -30.39,17.73 c -1.32,0.2 -2.67,0.13 -3.97,-0.21 -2.96,-0.61 -5.83,-1.56 -8.58,-2.83 -7.84,-3.37 -15.21,-7.73 -21.96,-12.98 -1.75,-1.43 -3.31,-3.1 -4.62,-4.95 -0.51,-0.58 -0.51,-1.46 0,-2.04 z"
+       pointer-events="none"
+       id="path6471" />
+    <path
+       style="fill:#ececec;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 118.97,5746 20.56,-11.86 23.59,13.59 -21.08,12.06"
+       pointer-events="none"
+       id="path6473" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 133.01,5736.88 28.1,16.53 m -13.04,-15.51 -22.08,13.17 m 30.11,-8.6 -23.09,13.68"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6475" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2.00999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 68,5823.82 v -106.49 l 5.52,-14.39 25.18,-2.94 19.97,11.76 v 5.57 l 6.61,-4.16 h 35.03 l 35.22,20.57 v 24.84 l 2.7,-0.42 19.77,11.46 v 103.26 l -4.92,14.48 -26.19,2.64 -19.45,-11.55 v -5.57 l -6.94,4.14 h -35.31 l -35.02,-20.86 v -21.39 l -1.7,1.33 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6477" />
+  </g>
+  <g
+     id="g6483"
+     transform="translate(2312.0533,535.34111)">
+    <switch
+       id="switch6481">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="45"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Redshift</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6479"
+         font-size="12px"
+         y="12"
+         x="23">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3340">Redshift</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7642"
+     transform="translate(21.501593,-5091.0331)">
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 84.5,6071 v -67 l 5,-16.5 88.43,-10.5 23.74,13.49 v 66.01 l -19.03,52 -28.04,2.9 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6485" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 84.5,6004 70.41,40.29 27.73,-2.79 v 67 l -28.24,2.9 -69.9,-40.6 z"
+       pointer-events="none"
+       id="path6487" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 182.31,6042.33 19.18,-52 0.18,66.66 -18.7,51.01 z"
+       pointer-events="none"
+       id="path6489" />
+    <path
+       style="fill:#5e5e5e;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 153.1,5991.5 c 1.85,4.34 6.74,6.95 11.81,6.31 -0.24,1.72 0.78,3.43 2.79,4.67 2.02,1.25 4.84,1.91 7.74,1.82 l -0.41,5.7 c -4.42,-0.09 -8.33,1.27 -9.21,3.19 -0.14,2.12 -1.76,4.03 -4.28,5.02 -2.51,0.99 -5.53,0.91 -7.94,-0.2 -4.93,-2.16 -10.17,-3.51 -15.52,-4.01 -0.78,-2.32 -2.38,-4.28 -4.51,-5.5 l -4.01,-3.5 c -1.63,-1.18 -2.24,-2.7 -1.66,-4.15 0.58,-1.44 2.3,-2.67 4.67,-3.35 2.72,-0.09 5.25,-0.77 7.03,-1.9 1.77,-1.14 2.63,-2.61 2.38,-4.1 z"
+       pointer-events="none"
+       id="path6491" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 84.5,6004 70.41,40.29 27.73,-2.79 v 67 l -28.24,2.9 -69.9,-40.6 z m 97.81,38.33 19.18,-52 0.18,66.66 -18.7,51.01 z m -27.4,1.96 v 67.11"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6493" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 84.5,6071 v -67 l 5,-16.5 88.43,-10.5 23.74,13.49 v 66.01 l -19.03,52 -28.04,2.9 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6495" />
+  </g>
+  <g
+     id="g6501"
+     transform="translate(264.00159,935.46686)">
+    <switch
+       id="switch6499">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="47"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Route53</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6497"
+         font-size="12px"
+         y="12"
+         x="24">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3344">Route53</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7651"
+     transform="translate(924.43498,-5447.629)">
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 7,6365.99 V 6261.4 l 138.3,-81.4 93.2,53.01 v 106.5 L 99.39,6419 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6503" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 7,6261.4 92.39,51.2 V 6419 L 7,6365.99 Z"
+       pointer-events="none"
+       id="path6505" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="M 99.39,6312.6 238.5,6233.01 V 6339.2 L 99.39,6419 Z"
+       pointer-events="none"
+       id="path6507" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 7,6261.4 92.39,51.2 139.11,-79.59 M 99.39,6312.6 V 6419 m 0,-159.29 -45.88,27.36 v 105.42 m 92,-159.69 45.49,-26.29 m -137.19,26.5 91.88,53.3 v 106.18 m -46,-185.79 92,53.01 v 106.49"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6509" />
+    <path
+       style="fill:#5e5e5e;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 117.49,6231.5 c -0.53,-0.46 -0.37,-1.07 0.39,-1.43 0.76,-0.35 1.88,-0.34 2.62,0.02 9.32,2.24 18.02,6.51 25.49,12.5 1.46,1.06 2.81,2.27 4.01,3.61 0.72,0.5 0.9,1.49 0.4,2.21 -0.5,0.72 -1.49,0.9 -2.21,0.4 -5.94,-1.03 -11.62,-3.24 -16.69,-6.5 -5.27,-2.74 -10.02,-6.4 -14.01,-10.81 z"
+       pointer-events="none"
+       id="path6511" />
+    <path
+       style="fill:#5e5e5e;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 115.5,6231.1 c 1.03,1.73 2.2,3.37 3.5,4.9 4.69,4.33 10.11,7.82 16,10.3 4.05,2.17 8.45,3.63 13.01,4.3 l -26.51,9.2 c -3.17,-0.73 -6.25,-1.8 -9.19,-3.2 -2.93,-1.3 -5.72,-2.91 -8.31,-4.8 -1.87,-1.53 -3.61,-3.2 -5.21,-5 z"
+       pointer-events="none"
+       id="path6513" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 7,6365.99 V 6261.4 l 138.3,-81.4 93.2,53.01 v 106.5 L 99.39,6419 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6515" />
+  </g>
+  <g
+     id="g6521"
+     transform="translate(1198.935,847.87101)">
+    <switch
+       id="switch6519">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="15"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">S3</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6517"
+         font-size="12px"
+         y="12"
+         x="8">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3348">S3</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7659"
+     transform="translate(1118.075,-5789.8219)">
+    <path
+       style="fill:#4286c5;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 93.5,6527.7 124.25,6510 155,6527.7 142.5,6563 124.25,6573.8 105.5,6563 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6523" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 93.5,6527.7 30.75,17.8 v 28.3 L 105.7,6563 Z"
+       pointer-events="none"
+       id="path6525" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 124.25,6545.3 30.75,-17.6 -12.5,35.3 -18.25,10.8 z"
+       pointer-events="none"
+       id="path6527" />
+    <path
+       style="fill:none;stroke:#57a2d8;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 93.5,6527.7 30.75,17.8 30.75,-17.8"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6529" />
+    <path
+       style="fill:none;stroke:#57a2d8;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 124.25,6545.5 v 28.3"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6531" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 93.5,6527.7 30.8,-17.7 30.7,17.7 -12.5,35.3 -18.2,10.8 -18.8,-10.8 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6533" />
+  </g>
+  <g
+     id="g6539"
+     transform="translate(1329.3388,757.60794)">
+    <switch
+       id="switch6537">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="55"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">S3 Bucket</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6535"
+         font-size="12px"
+         y="12"
+         x="28">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3350">S3 Bucket</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7667"
+     transform="translate(2570.7184,-6087.8577)">
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 22,6799.8 30.01,-35.28 v -69.35 l 60.19,-35.17 59.79,35.17 v 69.39 l 30.01,35.24 -45.25,8.71 -30.01,16.94 -14.54,26.55 -15.16,-25.86 -30.49,-18.22 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6541" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 52.1,6695.27 59.7,34.58 v 70.14 l 15.05,25.76 L 111.8,6852 96.95,6825.54 66.24,6808.2 22,6799.7 51.9,6764.72 Z m 104.65,112.84 14.96,-43.3 30.29,34.77 z"
+       pointer-events="none"
+       id="path6543" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 111.8,6729.95 59.91,-34.87 v 69.85 l -14.57,43.18 -30.09,17.64 -15.25,-26.17 z"
+       pointer-events="none"
+       id="path6545" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 52.1,6695.27 59.7,34.58 v 70.14 l 15.05,25.76 L 111.8,6852 96.95,6825.54 66.24,6808.2 22,6799.7 51.9,6764.72 Z m 104.65,112.84 14.96,-43.3 30.29,34.77 z m -44.95,-78.16 59.91,-34.87 v 69.85 l -14.57,43.18 -30.09,17.64 -15.25,-26.17 z m -59.79,34.86 14.74,43.11 m 30.2,17.83 14.85,-26.17 V 6852"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6547" />
+    <path
+       style="fill:#5e5e5e;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 83.69,6694.37 c -2.25,-0.97 -3.47,-3.43 -2.88,-5.82 0.67,-2.16 3.03,-4 6.37,-4.99 3.6,-1.35 7.54,-1.57 11.27,-0.62 3.45,-2.13 7.41,-3.3 11.46,-3.39 4.07,-0.44 8.19,0.18 11.95,1.8 2.15,0.68 3.8,2.35 4.42,4.46 0.62,2.11 0.13,4.38 -1.32,6.06 2.2,-0.24 4.38,0.58 5.89,2.21 0.46,0.95 0.51,2.05 0.13,3.04 -0.38,0.99 -1.15,1.77 -2.13,2.16 1.95,1.82 2.48,4.71 1.29,7.11 -2.46,3.18 -6.26,5.03 -10.27,5.01 -3.81,0.34 -7.63,-0.43 -10.97,-2.19 z m 18.95,7.03 c 0.05,1.05 0.92,1.89 1.98,1.9 1.05,0.11 2.05,-0.45 2.5,-1.41 l 0.79,-5.91 c 2.23,-0.14 4.36,-0.91 6.18,-2.21 0.89,-1.09 1.62,-2.8 2.1,-4.91 -0.39,-1.28 -1.75,-2.43 -3.79,-3.21 -2.41,-0.79 -4.97,-0.99 -7.47,-0.59 -1.92,0.29 -3.74,1.05 -5.3,2.2 -1.21,0.8 -2.09,2.01 -2.48,3.4 -0.11,1.81 0.87,3.52 2.48,4.32 1.21,0.75 2.59,1.16 4,1.19 z m 4.28,-7.53 c -1.32,0.28 -2.7,0.21 -3.99,-0.19 -1.23,-0.43 -2.09,-1.29 -2.29,-2.31 -0.01,-1.37 0.88,-2.62 2.29,-3.2 1.48,-0.69 3.1,-1.04 4.73,-1.02 1.83,-0.03 3.6,0.65 4.93,1.92 0.69,1.25 0.13,2.58 -1.49,3.59 -1.23,0.84 -2.69,1.26 -4.18,1.21 z"
+       pointer-events="none"
+       id="path6549" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 22,6799.8 30.01,-35.28 v -69.35 l 60.19,-35.17 59.79,35.17 v 69.39 l 30.01,35.24 -45.25,8.71 -30.01,16.94 -14.54,26.55 -15.16,-25.86 -30.49,-18.22 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6551" />
+  </g>
+  <g
+     id="g6557"
+     transform="translate(2815.2184,664.64227)">
+    <switch
+       id="switch6555">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="81"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Search Engine</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6553"
+         font-size="12px"
+         y="12"
+         x="41">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3352">Search Engine</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7671"
+     transform="translate(-83.282557,-5861.0432)">
+    <path
+       style="fill:#000000;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 83.33,6943.22 c 0.53,-2.7 1.97,-5.15 4.08,-6.91 3.89,-2.84 8.4,-4.7 13.15,-5.42 6.34,-0.9 12.8,-0.55 19.02,1.01 5.59,1.37 10.81,3.93 15.32,7.52 2.73,2.32 4.54,5.56 5.1,9.11 0.01,2.95 -1.06,5.81 -3,8.02 -3.65,3.28 -8.19,5.41 -13.04,6.11 -7.89,1.35 -15.99,0.76 -23.6,-1.71 -5.03,-1.61 -9.62,-4.35 -13.44,-8.01 -2.6,-2.53 -3.91,-6.1 -3.59,-9.72 z"
+       pointer-events="none"
+       id="path6559" />
+    <path
+       style="fill:#ffffff;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 98.17,6947.23 13.34,7.71 9.26,-5.3 -0.9,-0.81 2.79,-1.5 c 1.16,-0.82 1.92,-2.09 2.09,-3.51 -0.36,-1.33 -1.26,-2.46 -2.48,-3.1 -1.61,-1.13 -3.52,-1.76 -5.48,-1.81 -1.66,-0.06 -3.29,0.39 -4.68,1.31 l -3.69,2.2 -1.09,-0.6 z m 13.04,-3 3.09,-1.91 c 1.42,-0.59 2.99,-0.7 4.48,-0.3 0.93,0.31 1.73,0.83 2.29,1.51 0.15,0.22 0.2,0.5 0.14,0.76 -0.05,0.26 -0.21,0.49 -0.44,0.64 l -3.98,2.3 z"
+       pointer-events="none"
+       id="path6561" />
+  </g>
+  <g
+     id="g6567"
+     transform="translate(136.20264,1083.6929)">
+    <switch
+       id="switch6565">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="105"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Secure Connection</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6563"
+         font-size="12px"
+         y="12"
+         x="53">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3354">Secure Connection</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7680"
+     transform="translate(2350.5967,-6365.5742)">
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 13,7209.8 30.01,-35.28 v -69.35 l 60.19,-35.17 59.79,35.17 v 69.39 l 30.01,35.24 -45.25,8.71 -30.01,16.94 -14.54,26.55 -15.16,-25.86 -30.49,-18.22 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6569" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 43.1,7105.27 59.7,34.58 v 70.14 l 15.05,25.76 L 102.8,7262 87.95,7235.54 57.24,7218.2 13,7209.7 42.9,7174.72 Z m 104.65,112.84 14.96,-43.3 30.29,34.77 z"
+       pointer-events="none"
+       id="path6571" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 102.8,7139.95 59.91,-34.87 v 69.85 l -14.57,43.18 -30.09,17.64 -15.25,-26.17 z"
+       pointer-events="none"
+       id="path6573" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 43.1,7105.27 59.7,34.58 v 70.14 l 15.05,25.76 L 102.8,7262 87.95,7235.54 57.24,7218.2 13,7209.7 42.9,7174.72 Z m 104.65,112.84 14.96,-43.3 30.29,34.77 z m -44.95,-78.16 59.91,-34.87 v 69.85 l -14.57,43.18 -30.09,17.64 -15.25,-26.17 z m -59.79,34.86 14.74,43.11 m 30.2,17.83 14.85,-26.17 V 7262"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6575" />
+    <path
+       style="fill:#5e5e5e;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 98.91,7106.77 c -2.41,0.75 -4.94,1.09 -7.47,1.02 -2.58,0.09 -5.15,-0.32 -7.57,-1.21 -1.88,-0.77 -3.48,-2.1 -4.59,-3.81 -0.84,-1.81 -0.72,-3.91 0.3,-5.62 1.44,-1.96 3.37,-3.51 5.58,-4.49 2.86,-1.52 6.04,-2.32 9.27,-2.33 3.06,-0.37 6.17,-0.02 9.07,1.02 2.02,0.81 3.77,2.16 5.08,3.9 0.85,1.7 0.85,3.71 0,5.41 l 5.49,3.02 -1.6,2.9 4.19,1.8 -0.11,2.11 0.71,1 6.17,0.4 -0.4,4.5 -5.29,1.11 z m -0.3,-1.9 c 1.64,-0.42 3.15,-1.24 4.39,-2.4 1.61,-1.12 2.58,-2.95 2.59,-4.92 -0.38,-1.67 -1.58,-3.03 -3.18,-3.61 -1.31,-0.79 -2.77,-1.27 -4.29,-1.4 -1.65,-0.24 -3.32,-0.27 -4.98,-0.1 -1.59,0.16 -3.14,0.57 -4.59,1.21 -1.54,0.46 -2.94,1.29 -4.09,2.4 -1.05,1.03 -1.75,2.36 -2,3.81 0.3,1.96 1.64,3.61 3.49,4.32 1.84,1 3.89,1.55 5.98,1.59 1.27,0.07 2.55,-0.03 3.8,-0.29 0.98,-0.08 1.95,-0.29 2.88,-0.61"
+       pointer-events="none"
+       id="path6577" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 101.9,7095.46 -8.37,3.49 6.09,1.31 m 1.38,3.01 0.9,0.81 m 2.2,-3.82 2.48,0.4 m -1.89,-3.9 2.7,-0.3 m -5.38,-2.52 0.88,-1.19 m -5.67,-0.19 0.51,-1.11 m -5.6,1.49 -0.4,-1.09 m -4.57,2.8 -1.1,-1 m -2,4.02 -2.59,-0.31 m 2.29,3.51 -2.29,0.79 m 4.59,2.02 -1.1,0.9 m 5.58,0.4 -0.39,1.19 m 5.97,-1.09 0.31,0.79"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6579" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 13,7209.8 30.01,-35.28 v -69.35 l 60.19,-35.17 59.79,35.17 v 69.39 l 30.01,35.24 -45.25,8.71 -30.01,16.94 -14.54,26.55 -15.16,-25.86 -30.49,-18.22 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6581" />
+  </g>
+  <g
+     id="g6587"
+     transform="translate(2611.3734,788.63423)">
+    <switch
+       id="switch6585">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="124"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Security Token Service</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6583"
+         font-size="12px"
+         y="12"
+         x="62">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3380">Security Token Service</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7689"
+     transform="translate(282.0016,-5745.7329)">
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 43,7437.5 v -53 l 15.5,-27 L 89,7340 h 31 l 30.5,17.5 15.5,27 v 53 l -61.5,35.5 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6589" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 58.5,7357.5 v 18.01 l 30.99,18 15.01,26.49 v 53 L 43,7437.5 v -53 z m 92,18.01 V 7357.5 L 166,7384"
+       pointer-events="none"
+       id="path6591" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 104.5,7473 v -53 l 15.01,-26.49 30.99,-18 15.5,8.49 v 53.5 z"
+       pointer-events="none"
+       id="path6593" />
+    <path
+       style="fill:#5e5e5e;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 65.4,7364.21 34.91,-20.11 43.8,25.4 -34.81,19.9 z"
+       pointer-events="none"
+       id="path6595" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 58.5,7357.5 v 18.01 l 30.99,18 15.01,26.49 15.01,-26.49 30.99,-18 v -18.01 m -107.5,27 15.5,-8.99 m 46,44.49 v 53 m 61.5,-88.5 -15.99,-8.99 m -60.52,18 h 30.02"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6597" />
+    <path
+       style="fill:none;stroke:#ececec;stroke-width:2.20000005;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 72.3,7369.5 37.3,-21.49 m -19.6,-0.51 48.17,27.82 m -58.68,-23.15 51.01,29.33 m -60.33,-24 48.83,28.17"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6599" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 43,7437.5 v -53 l 15.5,-27 L 89,7340 h 31 l 30.5,17.5 15.5,27 v 53 l -61.5,35.5 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6601" />
+  </g>
+  <g
+     id="g6607"
+     transform="translate(521.01445,1665.4054)">
+    <switch
+       id="switch6605">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="55"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">SimpleDB</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6603"
+         font-size="12px"
+         y="12"
+         x="28">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3388">SimpleDB</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7698"
+     transform="translate(67.679923,-5843.3471)">
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:1.83000004;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 4,7687.6 v -122.01 l 61.09,-35.59 53.13,0.4 67.28,34.9 v 122.3 l -60,35 -31,-17.51 -30.01,17.51 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6609" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 4,7565.59 30.49,-0.29 -30.49,35 60.49,34.99 v 87.31 L 4,7687.6 Z m 90.5,139.25 V 7600.4 l 30.51,34.7 v 87.5 z"
+       pointer-events="none"
+       id="path6611" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="M 64.49,7635.29 94.5,7600.4 v 104.4 l -30.01,17.8 z m 90.01,-70.2 31,0.5 v 122.01 l -60.49,35 v -87.81 l 60.49,-34.18 z"
+       pointer-events="none"
+       id="path6613" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 4,7565.59 30.49,-0.29 -30.49,35 60.49,34.99 v 87.31 L 4,7687.6 Z m 90.5,139.25 V 7600.4 l 30.51,34.7 v 87.5 z M 64.49,7635.29 94.5,7600.4 v 104.4 l -30.01,17.8 z m 90.01,-70.2 31,0.5 v 122.01 l -60.49,35 v -87.81 l 60.49,-34.18 z m -120.21,0.12 60.21,35.19 60.4,-35.1 -60.4,-34.7 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6615" />
+    <path
+       style="fill:#5e5e5e;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 51.81,7565.3 42.99,-25 43.4,25 -43.4,25.1 z"
+       pointer-events="none"
+       id="path6617" />
+    <path
+       style="fill:none;stroke:#ececec;stroke-width:2.75;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 58.5,7570.6 47.9,-27.5 m -22.01,0.25 47.73,27.5 m -7.11,6.49 -48.88,-28.23 m -8.62,5.49 46.99,27.36 m -55.89,-21.99 45.14,26.13"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6619" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:1.83000004;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 4,7687.6 v -122.01 l 61.09,-35.59 53.13,0.4 67.28,34.9 v 122.3 l -60,35 -31,-17.51 -30.01,17.51 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6621" />
+  </g>
+  <g
+     id="g6627"
+     transform="translate(305.16511,1774.4444)">
+    <switch
+       id="switch6625">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="55"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">SimpleDB</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6623"
+         font-size="12px"
+         y="12"
+         x="28">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3392">SimpleDB</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7707"
+     transform="translate(1219.0467,-7683.6462)">
+    <path
+       style="fill:#4286c5;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 142,7858.9 135.71,7844.8 93,7820 H 80.5 l -24.6,14.2 -5.9,13.7 55.2,32.1 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6629" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 142,7859 -6,-7.8 -24.6,14.8 H 99.1 l 6.1,14 z"
+       pointer-events="none"
+       id="path6631" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 105.2,7880 -5.9,-13.8 -43.1,-24.9 -0.19,-6.9 L 50,7848 Z"
+       pointer-events="none"
+       id="path6633" />
+    <path
+       style="fill:none;stroke:#57a2d8;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 142,7859 -6,-7.8 -24.6,14.8 H 99.1 l 6.1,14 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6635" />
+    <path
+       style="fill:none;stroke:#57a2d8;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 105.2,7880 -5.9,-13.8 -43.1,-24.9 -0.19,-6.9 L 50,7848 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6637" />
+    <path
+       style="fill:none;stroke:#57a2d8;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 136,7845.2 v 6 m -24.7,14.8 -6.1,14 m -49.2,-38.7 -6,7.1"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6639" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 142,7858.9 135.71,7844.8 93,7820 H 80.5 l -24.6,14.2 -5.9,13.7 55.2,32.1 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6641" />
+  </g>
+  <g
+     id="g6647"
+     transform="translate(1421.5467,173.85375)">
+    <switch
+       id="switch6645">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="52"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Snapshot</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6643"
+         font-size="12px"
+         y="12"
+         x="26">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3394">Snapshot</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7716"
+     transform="translate(1493.3734,-7712.3675)">
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 45,8041.5 v -35 L 91,7980 h 30.51 l 46.49,26.5 v 35 l -61.5,35.5 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6649" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 45,8006.5 61.5,35.5 v 35 L 45,8041.5 Z"
+       pointer-events="none"
+       id="path6651" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 106.5,8042 61.5,-35.5 v 35.5 l -61.5,35 z"
+       pointer-events="none"
+       id="path6653" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 45,8006.5 61.5,35.5 v 35 L 45,8041.5 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6655" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 106.5,8042 61.5,-35.5 v 35.5 l -61.5,35 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6657" />
+    <path
+       style="fill:#5e5e5e;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 91,8026 c -1.52,-0.98 -1.52,-2.53 0,-3.5 l 13,-7.5 c 1.46,-0.59 3.54,-0.59 5,0 l 13,7.5 c 1.23,0.92 1.23,2.27 0,3.2 l -13,7.5 c -1.46,0.59 -3.54,0.59 -5,0 z"
+       pointer-events="none"
+       id="path6659" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 45,8041.5 v -35 L 91,7980 h 30.51 l 46.49,26.5 v 35 l -61.5,35.5 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6661" />
+  </g>
+  <g
+     id="g6667"
+     transform="translate(1689.7553,313.95901)">
+    <switch
+       id="switch6665">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="74"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Spot instance</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6663"
+         font-size="12px"
+         y="53.450108"
+         x="35.236164">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3315">Spot instance</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7725"
+     transform="translate(2779.9084,-7739.1264)">
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 7,8299.24 v -34.99 L 37.51,8175.44 99,8140 l 61.4,35.44 30.6,88.81 v 34.99 l -92,53.51 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6669" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="M 37.51,8175.55 99,8211.06 v 141.69 L 7,8299.24 v -34.99 z"
+       pointer-events="none"
+       id="path6671" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 99,8211.14 61.31,-35.59 30.69,88.7 v 35.5 l -92,53 z"
+       pointer-events="none"
+       id="path6673" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 129.8,8157.96 -61.4,35.48 -15.4,97.8 v 34.62 m 15.2,-168.01 61.6,35.59 15.2,96.61 v 35.89 m -138,-61.69 92,52.99 92,-52.99 m -153.49,-88.7 61.49,35.51 61.31,-35.51 M 99,8211.06 v 141.69"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6675" />
+    <path
+       style="fill:#5e5e5e;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 68.4,8172.15 24.49,-14.11 36.71,21.11 -24.4,14.1 z"
+       pointer-events="none"
+       id="path6677" />
+    <path
+       style="fill:#ececec;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 78.8,8172.55 14.7,-8.51 v 8.51 z m 9.2,5.4 14.61,-8.51 v 8.51 z m 9.31,5.3 14.59,-8.51 v 8.51 z"
+       pointer-events="none"
+       id="path6679" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 7,8299.24 v -34.99 L 37.51,8175.44 99,8140 l 61.4,35.44 30.6,88.81 v 34.99 l -92,53.51 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6681" />
+  </g>
+  <g
+     id="g6687"
+     transform="translate(3003.4084,496.37355)">
+    <switch
+       id="switch6685">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="25"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">SQS</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6683"
+         font-size="12px"
+         y="12"
+         x="13">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3396">SQS</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7728"
+     transform="translate(793.84247,-8297.6598)">
+    <path
+       style="fill:#777777;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 78.5,8411.16 c 0.4,-3.59 1.7,-6.75 3.6,-8.7 2.67,-2.22 6.47,-2.46 9.4,-0.6 3.03,1.64 5.68,3.89 7.8,6.6 2.97,3.77 4.99,8.19 5.9,12.9 1.16,4.07 1.26,8.38 0.3,12.5 -0.51,2.36 -1.86,4.46 -3.8,5.9 -2.32,1.21 -5.08,1.21 -7.4,0 -3.76,-1.61 -6.94,-4.33 -9.1,-7.8 -2.31,-3.08 -4.01,-6.58 -5,-10.3 -1.31,-3.34 -1.89,-6.92 -1.7,-10.5 z m -10.5,60.8 v -25.3 c 0.24,-2.84 1.48,-5.49 3.5,-7.5 2.82,-2.11 6.61,-2.38 9.7,-0.7 l 21.6,12.3 c 3.67,2.32 6.67,5.56 8.7,9.4 2.59,4.26 4.44,8.93 5.5,13.8 v 26.5 l -9.1,-5.4 v -16.6 l -3.1,-1.7 v 16.6 l -24.5,-14.3 v -16.4 l -3.1,-1.8 v 16.5 z"
+       pointer-events="none"
+       id="path6689" />
+  </g>
+  <g
+     id="g6695"
+     transform="translate(977.34247,166.84014)">
+    <switch
+       id="switch6693">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="26"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">User</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6691"
+         font-size="12px"
+         y="12"
+         x="13">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3398">User</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7743"
+     transform="translate(585.85246,-8001.2565)">
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 104.2,8627.5 v -52.4 l -55.4,-3.6 -12.3,7.1 v 35.4 l 37.2,32 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6697" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 104.2,8627.5 v -52.4 l -30.8,17.7 v 53.2 z"
+       pointer-events="none"
+       id="path6699" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 73.4,8592.8 -36.9,-14.2 v 35.4 l 36.9,32 z"
+       pointer-events="none"
+       id="path6701" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 104.2,8627.5 v -52.4 l -30.8,17.7 v 53.2 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6703" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 73.4,8592.8 -36.9,-14.2 v 35.4 l 36.9,32 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6705" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 104.2,8627.5 v -52.4 l -55.4,-3.6 -12.3,7.1 v 35.4 l 37.2,32 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6707" />
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 153.2,8667 v -35.2 l -37.01,-49.7 -30.49,17.7 v 53.2 l 55.2,21.3 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6709" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 153.2,8667 v -35.2 l -12.3,6.9 v 35.6 z"
+       pointer-events="none"
+       id="path6711" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 140.9,8674.3 v -35.6 l -55.2,-38.9 v 53.2 z"
+       pointer-events="none"
+       id="path6713" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 153.2,8667 v -35.2 l -12.3,6.9 v 35.6 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6715" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 140.9,8674.3 v -35.6 l -55.2,-38.9 v 53.2 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6717" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 153.2,8667 v -35.2 l -37.01,-49.7 -30.49,17.7 v 53.2 l 55.2,21.3 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6719" />
+    <path
+       style="fill:#5e5e5e;stroke:none"
+       inkscape:connector-curvature="0"
+       d="M 101.7,8651.1 V 8636 l 2.19,0.7 v -6.6 c 0.05,-2.07 1.36,-3.9 3.31,-4.6 2.15,-0.16 4.28,0.56 5.9,2 1.86,1.65 3.04,3.93 3.3,6.4 v 8.3 l 1.8,0.7 v 15 z m 11.4,-10.3 v -5.8 c 0,-1.83 -0.72,-3.6 -2.01,-4.9 -0.59,-0.68 -1.4,-1.14 -2.29,-1.3 -0.38,-0.09 -0.78,-0.01 -1.09,0.22 -0.31,0.24 -0.5,0.6 -0.51,0.98 v 8.3 z"
+       pointer-events="none"
+       id="path6721" />
+  </g>
+  <g
+     id="g6727"
+     transform="translate(824.68449,641.53495)">
+    <switch
+       id="switch6725">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="76"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">VPC Gateway</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6723"
+         font-size="12px"
+         y="12"
+         x="38">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3400">VPC Gateway</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7751"
+     transform="translate(207.7066,-8187.9159)">
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 64,8753.6 6.4,-14.4 24.7,-14.2 h 12.3 l 24.61,14.3 5.99,14 -36.8,21.7 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6729" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 64,8753.3 6.6,-14.2 -0.1,7.2 24.7,14.3 h 12.2 l -6.2,14.4 z"
+       pointer-events="none"
+       id="path6731" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 101.2,8775 6.2,-14.4 24.5,-14.1 6.1,6.8 z"
+       pointer-events="none"
+       id="path6733" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 64,8753.3 6.6,-14.2 -0.1,7.2 24.7,14.3 h 12.2 l -6.2,14.4 z m 37.2,21.7 6.2,-14.4 24.5,-14.1 6.1,6.8 z m -37.2,-21.4 6.6,-7.5 m 30.6,28.9 -6.2,-14.6 m 36.9,-13.9 v -7"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6735" />
+    <path
+       style="fill:#5e5e5e;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 85.4,8735.52 5.2,-3.01 2.8,1.71 c 1.24,-0.36 2.51,-0.59 3.8,-0.71 v -2.3 h 7.7 v 2.3 c 1.57,0.19 3.12,0.56 4.6,1.11 l 2.8,-1.61 5.4,3.11 -2.7,1.61 c 0.77,0.85 1.44,1.79 2,2.8 h 3.8 v 4.41 H 117 c -0.41,0.74 -0.88,1.44 -1.4,2.11 l 3,1.7 -5.5,3.1 -2.5,-1.6 c -1.82,0.78 -3.74,1.29 -5.7,1.5 v 2.31 h -7.6 v -2.31 c -1.57,-0.18 -3.12,-0.55 -4.6,-1.1 l -2.7,1.51 -5.4,-3.11 2.7,-1.5 c -0.8,-0.82 -1.5,-1.73 -2.1,-2.71 h -3.8 v -4.41 h 3.8 c 0.68,-1.21 1.52,-2.32 2.5,-3.3 z m 8.6,1.71 c -1.43,0.6 -2.69,1.52 -3.7,2.7 -0.59,0.85 -0.91,1.87 -0.9,2.9 0.16,1.2 0.69,2.32 1.5,3.21 1.03,0.98 2.26,1.74 3.6,2.21 3.62,1.69 7.76,1.87 11.5,0.5 1.88,-0.38 3.62,-1.28 5,-2.61 1.13,-0.94 1.79,-2.33 1.8,-3.81 -0.35,-1.88 -1.57,-3.48 -3.3,-4.31 -1.65,-1.01 -3.49,-1.69 -5.4,-2 -1.89,-0.25 -3.8,-0.28 -5.7,-0.1 -1.52,0.21 -3.01,0.65 -4.4,1.31 z m 5,1.8 c 1.9,-0.27 3.84,-0.16 5.7,0.3 1.21,0.34 2.24,1.13 2.9,2.2 0.48,0.98 0.28,2.15 -0.5,2.91 -1.23,1.16 -2.82,1.83 -4.5,1.9 -1.96,0.25 -3.96,0.01 -5.8,-0.7 -1.26,-0.53 -2.16,-1.66 -2.4,-3 0.19,-1.12 0.84,-2.1 1.8,-2.71 0.84,-0.53 1.81,-0.84 2.8,-0.9 z"
+       pointer-events="none"
+       id="path6737" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 64,8753.6 6.4,-14.4 24.7,-14.2 h 12.3 l 24.61,14.3 5.99,14 -36.8,21.7 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6739" />
+  </g>
+  <g
+     id="g6745"
+     transform="translate(406.2066,569.58408)">
+    <switch
+       id="switch6743">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="39"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Worker</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6741"
+         font-size="12px"
+         y="12"
+         x="20">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3402">Worker</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7760"
+     transform="translate(1850.4942,-7796.2032)">
+    <path
+       style="fill:#ececec;stroke:#292929;stroke-width:1.40999997;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 17.5,8925.81 62.7,8830 h 91.4 l 45.6,95.81 -91.39,52.59 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6747" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="M 17.5,8925.81 62.79,8830 v 52.4 l 45.52,96 z M 154.1,8882.4 V 8830 l 45.6,95.81 z"
+       pointer-events="none"
+       id="path6749" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 108.31,8978.4 45.58,-96 45.81,43.41 -91.7,52.59 z"
+       pointer-events="none"
+       id="path6751" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 154.1,8882.4 V 8830 l 45.6,95.81 z M 17.5,8925.81 62.79,8830 v 52.4 l 45.52,96 45.58,-96 45.81,43.41 -91.7,52.59 z m 45.29,-43.41 h 91.51 m -91.47,-0.01 -45.33,43.86"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6753" />
+    <ellipse
+       style="fill:#5e5e5e;stroke:none"
+       cx="108"
+       cy="8856"
+       rx="37.496761"
+       ry="21.703501"
+       pointer-events="none"
+       id="ellipse6755" />
+    <path
+       style="fill:none;stroke:#ececec;stroke-width:1.40999997;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 113.19,8836.9 11.32,6.5 -7.11,4.01 -11.1,-6.61 z m -6.48,9.9 1.98,8.5 -14.99,-1.1 -1.1,-8.5 z m -23.91,7.4 11.3,6.4 -6.91,4.01 -11.39,-6.41 z m 18.4,10.5 11.3,6.6 -6.91,4.01 -11.29,-6.61 z m 10.81,-20.71 -5.61,3.11 m -12.19,7 -5.74,3.29 m 20.13,-2.19 10.09,5.8 -12.19,7.09"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6757" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:1.40999997;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="M 17.5,8925.81 62.7,8830 h 91.4 l 45.6,95.81 -91.39,52.59 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6759" />
+  </g>
+  <g
+     id="g6765"
+     transform="translate(2125.2709,1117.8244)">
+    <switch
+       id="switch6763">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="92"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Workflow service</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6761"
+         font-size="12px"
+         y="12"
+         x="46">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3404">Workflow service</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g7770"
+     transform="translate(1263.8442,-7589.6605)">
+    <g
+       id="g7763">
+      <path
+         style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+         inkscape:connector-curvature="0"
+         id="path6767"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         d="m 116,9048 -4,-2.5 21,-5.5 -9.7,12.2 -4.2,-2.4 -21.9,12.7 c 0.94,1.02 0.67,2.21 -0.7,3.1 -1.23,0.59 -2.86,0.82 -4.42,0.62 -1.56,-0.19 -2.88,-0.79 -3.58,-1.62 -0.94,-0.65 -1.25,-1.44 -0.87,-2.2 0.38,-0.76 1.42,-1.41 2.87,-1.8 1.23,-0.22 2.56,-0.15 3.7,0.2 z" />
+    </g>
+  </g>
+  <g
+     id="g7773"
+     transform="translate(1263.8442,-7589.6605)">
+    <path
+       style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 193,9058 -4,2.5 21,5.5 -9.7,-12.2 -4.2,2.4 -21.9,-12.7 c 0.94,-1.02 0.67,-2.21 -0.7,-3.1 -1.23,-0.59 -2.86,-0.82 -4.42,-0.62 -1.56,0.19 -2.88,0.79 -3.58,1.62 -0.94,0.65 -1.25,1.44 -0.87,2.2 0.38,0.76 1.42,1.41 2.87,1.8 1.23,0.22 2.56,0.15 3.7,-0.2 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6769" />
+  </g>
+  <g
+     id="g7777"
+     transform="translate(1263.8442,-7589.6605)">
+    <g
+       id="g7766">
+      <path
+         style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+         inkscape:connector-curvature="0"
+         id="path6771"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         d="m 264,9058 4,2.5 -21,5.5 9.7,-12.2 4.2,2.4 21.9,-12.7 c -0.94,-1.02 -0.67,-2.21 0.7,-3.1 1.23,-0.59 2.86,-0.82 4.42,-0.62 1.56,0.19 2.88,0.79 3.58,1.62 0.94,0.65 1.25,1.44 0.87,2.2 -0.38,0.76 -1.42,1.41 -2.87,1.8 -1.23,0.22 -2.56,0.15 -3.7,-0.2 z" />
+    </g>
+  </g>
+  <g
+     id="g7780"
+     transform="translate(1263.8442,-7589.6605)">
+    <path
+       style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 350.5,9048 4,-2.5 -21,-5.5 9.7,12.2 4.2,-2.4 21.9,12.7 c -0.94,1.02 -0.67,2.21 0.7,3.1 1.23,0.59 2.86,0.82 4.42,0.62 1.56,-0.19 2.88,-0.79 3.58,-1.62 0.94,-0.65 1.25,-1.44 0.87,-2.2 -0.38,-0.76 -1.42,-1.41 -2.87,-1.8 -1.23,-0.22 -2.56,-0.15 -3.7,0.2 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6773" />
+  </g>
+  <g
+     id="g7783"
+     transform="translate(1263.8442,-7589.6605)">
+    <path
+       style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 124.5,9120 3.1,1.8 -21.9,12.7 c 0.94,1.02 0.67,2.21 -0.7,3.1 -1.23,0.59 -2.86,0.82 -4.42,0.62 -1.56,-0.19 -2.88,-0.79 -3.58,-1.62 -0.94,-0.65 -1.25,-1.44 -0.87,-2.2 0.38,-0.76 1.42,-1.41 2.87,-1.8 1.23,-0.22 2.56,-0.15 3.7,0.2 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6775" />
+  </g>
+  <g
+     id="g7788"
+     transform="translate(1263.8442,-7589.6605)">
+    <path
+       style="fill:#2d6195;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 199,9134.5 -21,-5.5 9.7,12.2"
+       pointer-events="none"
+       id="path6777" />
+    <path
+       style="fill:#2d6195;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 188.6,9141.5 21,5.5 -9.7,-12.2"
+       pointer-events="none"
+       id="path6779" />
+    <path
+       style="fill:none;stroke:#2d6195;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:12, 12"
+       inkscape:connector-curvature="0"
+       d="m 185.68,9133.42 16.25,9.16"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6781" />
+  </g>
+  <path
+     style="fill:#2d6195;stroke:none"
+     inkscape:connector-curvature="0"
+     id="path6783"
+     pointer-events="none"
+     d="m 1529.4442,1544.8395 21,-5.5 -9.7,12.2" />
+  <path
+     style="fill:none;stroke:#2d6195;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:12, 12"
+     inkscape:connector-curvature="0"
+     id="path6785"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 1542.7742,1543.7595 -23.93,13.58" />
+  <path
+     style="fill:#f4b934;stroke:none"
+     inkscape:connector-curvature="0"
+     id="path6787"
+     pointer-events="none"
+     d="m 1360.0442,1599.1395 -15.2,-8.8 h 61.2 v 35.5 l -15.4,-9 -17.1,9.5 -30.7,-17.7" />
+  <path
+     style="fill:#f4b934;stroke:none"
+     inkscape:connector-curvature="0"
+     id="path6789"
+     pointer-events="none"
+     d="m 1467.1442,1642.2395 15.5,-8.7 -15.4,-9 -15.4,9 15.4,-44.4 76.7,-8.8 -15.6,8.8 15.6,8.9 15.3,-8.9 130.1,73.3 -15.5,8.7 15.4,9 15.4,-9 -15.4,44.4 -76.7,8.8 15.6,-8.8 -15.6,-8.9 -15.3,8.9" />
+  <path
+     style="fill:#292929;stroke:none"
+     inkscape:connector-curvature="0"
+     id="path6791"
+     pointer-events="none"
+     d="m 1348.8442,1739.3395 19,5.5 -9.5,5.5 z" />
+  <path
+     style="fill:#2d6195;stroke:none"
+     inkscape:connector-curvature="0"
+     id="path6793"
+     pointer-events="none"
+     d="m 1374.3442,1800.3395 c 0.55,0 1,0.45 1,1 v 17.5 c 0,0.55 -0.45,1 -1,1 h -18.7 l -9.8,-9.7 9.8,-9.8 z" />
+  <path
+     style="fill:#f4b934;stroke:none"
+     inkscape:connector-curvature="0"
+     id="path6795"
+     pointer-events="none"
+     d="m 1507.8442,1792.3395 31,18 -31,18 -31,-18 z" />
+  <g
+     id="g6331-3"
+     transform="translate(1645.8675,551.93808)">
+    <switch
+       id="switch6329-6">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="92"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Internet Gateway</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text6327-7"
+         font-size="12px"
+         y="12"
+         x="46">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3368">Lambda</tspan>
+      </text>
+    </switch>
+  </g>
+  <path
+     id="path2636"
+     pointer-events="none"
+     d="m 438.2391,494.56234 c -0.65,-0.52 -1.16,-1.2 -1.47,-1.97 -0.37,-0.74 -0.6,-1.54 -0.69,-2.36 v -66.02 c 0.25,-0.57 0.7,-1.03 1.28,-1.28 0.63,-0.11 1.29,-0.01 1.86,0.29 l 30.21,17.54 c 0.77,0.51 1.38,1.23 1.77,2.07 0.56,1.1 0.87,2.31 0.88,3.55 v 65.03 c -0.19,0.61 -0.67,1.09 -1.28,1.28 -0.74,0.13 -1.5,0.13 -2.25,0 z m 12.36,1.09 c 0.09,1.72 0.63,3.38 1.57,4.82 0.44,0.7 1.04,1.28 1.76,1.68 0.7,0.46 1.59,0.54 2.36,0.2 0.92,-0.7 1.43,-1.81 1.37,-2.96 0.09,-0.87 -0.01,-1.74 -0.29,-2.56 -0.49,-1.35 -1.34,-2.55 -2.46,-3.45 -0.88,-0.81 -2.15,-1 -3.23,-0.49 -0.76,0.71 -1.15,1.72 -1.08,2.76 z m 16.58,1.38 c 0.41,0.21 0.92,0.16 1.28,-0.14 0.36,-0.3 0.51,-0.79 0.38,-1.24 v -38.43 c 0.03,-1.23 -0.52,-2.39 -1.47,-3.16 l -25.99,-14.87 c -0.66,-0.41 -1.51,-0.24 -1.96,0.39 v 39.81 c 0.03,0.79 0.39,1.54 0.98,2.07 l 26.28,15.42 z m -4.42,-49.67 c 0.69,0.38 1.54,0.3 2.16,-0.19 0.42,-0.8 0.45,-1.74 0.1,-2.56 -0.29,-1.16 -0.99,-2.18 -1.96,-2.86 l -17.76,-10.35 c -0.42,-0.38 -0.99,-0.56 -1.55,-0.49 -0.71,0.35 -1.14,1.08 -1.1,1.87 0.03,1.52 0.76,2.94 1.96,3.84 z"
+     inkscape:connector-curvature="0"
+     style="fill:#777777;stroke:none" />
+  <g
+     id="g2642"
+     transform="translate(544.3893,454.93614)">
+    <switch
+       id="switch2640">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="12"
+         width="79"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Mobile Worker</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         id="text2638"
+         font-size="12px"
+         y="12"
+         x="40"
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000">
+        <tspan
+           style="font-size:26.66666603px"
+           id="tspan3370">Mobile Worker</tspan>
+      </text>
+    </switch>
+  </g>
+  <g
+     id="g3307"
+     transform="translate(643.22328,-3344.4809)">
+    <path
+       style="fill:#ffffff;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 62.99251,4805.8152 v -70.49 l 61.5,-35.5 61.5,35.5 v 70.49 l -61.5,36.01 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path2644" />
+    <path
+       style="fill:#000000;fill-opacity:0.1;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 62.99251,4805.8152 v -70.49 l 61.5,35.5 v 71 z"
+       pointer-events="none"
+       id="path2646" />
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 124.49251,4770.8252 61.5,-35.5 v 70.49 l -61.5,36.01 z"
+       pointer-events="none"
+       id="path2648" />
+    <path
+       style="fill:#ff0000;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 62.99251,4783.1252 61.5,35.4 61.5,-35.4 v 15.9 l -61.5,35.5 -61.5,-35.5"
+       pointer-events="none"
+       id="path2650" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 62.99251,4783.1252 61.5,35.4 61.5,-35.4 m 0,15.9 -61.5,35.5 -61.5,-35.5"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path2652" />
+    <path
+       style="fill:#ffffff;stroke:none"
+       inkscape:connector-curvature="0"
+       d="m 72.99251,4800.8252 c -1.09,-1.07 -1.79,-2.48 -2,-4 -0.21,-1.02 -0.21,-2.07 -0.01,-3.1 0.4,-0.6 1.09,-0.95 1.81,-0.9 l 5.21,2.91 c 0.73,0.74 1.3,1.63 1.69,2.6 0.51,1.33 0.64,2.78 0.4,4.18 -0.54,0.83 -1.56,1.2 -2.5,0.91 z m 4.3,1 c 0.27,0.14 0.58,0.16 0.86,0.07 0.28,-0.09 0.52,-0.3 0.65,-0.57 0.14,-0.59 0.17,-1.2 0.09,-1.8 -0.17,-1.02 -0.66,-1.97 -1.4,-2.7 l -3.8,-2.2 c -0.45,-0.25 -1.01,-0.12 -1.3,0.3 -0.26,1.13 -0.19,2.33 0.19,3.41 0.29,0.52 0.66,0.99 1.11,1.39 z m 3.4,3.51 v -8.01 l 5.01,2.89 c 0.6,0.42 1.11,0.97 1.48,1.61 0.41,0.87 0.55,1.84 0.41,2.8 -0.49,1 -1.51,1.31 -2.3,0.71 l 2.2,3.69 -1.5,-0.7 -3.6,-6 3.4,1.8 c 0.15,0.06 0.32,0.05 0.46,-0.03 0.13,-0.07 0.23,-0.21 0.25,-0.37 0.08,-0.45 0,-0.91 -0.21,-1.3 -0.25,-0.38 -0.55,-0.72 -0.9,-1 l -3.61,-2.1 v 6.6 z m 7,3.99 3.5,-5.3 c 0.25,-0.35 0.74,-0.44 1.1,-0.2 0.26,0.4 0.46,0.84 0.6,1.29 l 3.3,8.81 -1.2,-0.4 -1,-2.1 -2.8,-1.49 -0.6,-1.71 2.9,1.49 -1.6,-4.19 -2.8,4.61 z m 15.2,7.3 -0.9,0.9 -3.9,-2.3 c -0.69,-0.51 -1.24,-1.2 -1.59,-2 -0.59,-1.04 -0.91,-2.21 -0.92,-3.41 0.03,-0.61 0.17,-1.22 0.41,-1.79 0.44,-0.52 1.12,-0.79 1.8,-0.71 l 4.9,2.72 -0.6,0.99 -3.7,-2.1 c -0.37,-0.16 -0.8,-0.08 -1.1,0.2 -0.37,0.56 -0.55,1.23 -0.5,1.9 0.17,1.15 0.73,2.21 1.6,3 z m 0.39,-6.2 1.11,0.6 v 6.5 l 5.4,3.1 -0.7,0.89 -5.3,-2.99 c -0.3,-0.33 -0.47,-0.75 -0.51,-1.2 z m 13.22,14.01 -0.31,1.29 -4.5,-2.6 c -0.52,-0.48 -0.92,-1.06 -1.2,-1.71 -1.01,-1.61 -1.26,-3.58 -0.7,-5.39 0.44,-0.52 1.12,-0.79 1.8,-0.7 l 4.91,2.7 -0.8,0.8 -3.41,-1.91 c -0.33,-0.12 -0.7,-0.09 -1.01,0.09 -0.31,0.17 -0.52,0.47 -0.59,0.82 l 5.6,3.3 -0.9,0.91 -4.7,-2.72 c 0.11,0.92 0.54,1.78 1.2,2.42 z m 22.39,-10.12 c 0.8,-0.41 1.79,-0.25 2.4,0.42 0.49,0.92 0.59,1.99 0.3,2.99 -0.31,1.56 -1.08,2.99 -2.2,4.11 l -3.9,2.4 c -0.98,0.55 -2.21,0.38 -3.01,-0.42 -0.49,-1.25 -0.45,-2.66 0.12,-3.89 0.28,-1.16 0.91,-2.2 1.79,-3.01 z m -3.5,3.31 c -0.87,0.58 -1.48,1.48 -1.7,2.5 -0.22,0.68 -0.25,1.41 -0.1,2.1 0.09,0.33 0.32,0.6 0.63,0.76 0.3,0.15 0.65,0.16 0.97,0.04 l 3.6,-2.1 c 0.73,-0.64 1.25,-1.47 1.51,-2.4 0.23,-0.61 0.27,-1.28 0.09,-1.9 -0.04,-0.37 -0.25,-0.69 -0.56,-0.89 -0.31,-0.19 -0.69,-0.23 -1.04,-0.11 z m 6.32,2.9 v -8.09 l 5.58,-3.01 c 0.37,-0.2 0.81,-0.21 1.18,-0.03 0.37,0.18 0.64,0.53 0.72,0.93 0.14,1.07 -0.07,2.16 -0.6,3.1 -0.46,0.76 -1.12,1.38 -1.9,1.8 l 2.3,1.3 -1.7,0.9 -3.5,-2 2.9,-1.7 c 0.52,-0.32 0.91,-0.81 1.1,-1.39 0.07,-0.37 0.07,-0.75 0,-1.11 -0.07,-0.12 -0.18,-0.21 -0.31,-0.25 -0.13,-0.04 -0.28,-0.02 -0.39,0.05 l -3.81,2.1 v 6.51 z m 7.38,-4.2 3.7,-9.9 c 0.07,-0.4 0.34,-0.73 0.7,-0.9 0.31,0.1 0.56,0.32 0.7,0.6 l 3.5,5.2 -1.2,0.79 -0.79,-0.99 -3.22,1.7 -0.59,-1.1 3.1,-1.59 -1.5,-2.6 -3,8.09 z m 15.3,-10.2 -0.9,1.9 -3.4,2.01 c -0.86,0.32 -1.81,0.24 -2.6,-0.22 -0.46,-1.07 -0.53,-2.27 -0.2,-3.39 0.17,-2.1 1.43,-3.96 3.33,-4.9 l 3.48,-1.8 -0.61,1.7 -3.31,2 c -0.68,0.47 -1.2,1.13 -1.5,1.91 -0.31,0.79 -0.41,1.65 -0.29,2.5 -0.03,0.34 0.14,0.68 0.43,0.87 0.29,0.19 0.67,0.2 0.97,0.03 z m 1.5,-7.62 v 6.73 l 5.09,-2.73 -0.49,1.52 -5,2.8 c -0.17,0.12 -0.4,0.13 -0.58,0.02 -0.18,-0.11 -0.27,-0.32 -0.22,-0.52 v -7 z m 12.01,-6.78 -0.61,1.81 -3.19,1.79 c -0.53,0.32 -0.98,0.77 -1.31,1.3 -0.34,0.52 -0.57,1.1 -0.7,1.71 l 5.4,-3.01 -0.5,1.7 -4.9,2.7 c 0,0.36 0.18,0.7 0.48,0.9 0.3,0.2 0.69,0.24 1.02,0.11 l 4.41,-2.5 -0.8,1.88 -3.41,1.91 c -0.65,0.47 -1.52,0.51 -2.2,0.1 -0.49,-0.75 -0.76,-1.61 -0.8,-2.5 0.15,-1.94 1,-3.75 2.4,-5.1"
+       pointer-events="none"
+       id="path2654" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 62.99251,4805.8152 v -70.49 l 61.5,35.5 v 71 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path2656" />
+    <path
+       style="fill:none;stroke:#5e5e5e;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 124.49251,4770.8252 61.5,-35.5 v 70.49 l -61.5,36.01 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path2658" />
+    <path
+       style="fill:none;stroke:#292929;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       d="m 62.99251,4805.8152 v -70.49 l 61.5,-35.5 61.5,35.5 v 70.49 l -61.5,36.01 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path2660" />
+  </g>
+</svg>
